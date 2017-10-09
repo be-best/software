@@ -1,0 +1,6 @@
+out.exe 生成输入数据
+huodong.exe 根据活动时间优先匹配
+xingqu.exe 根据兴趣优先匹配
+chengji.exe 根据成绩优先匹配
+
+因为使用了试用版的exe4j，所以在执行exe的时候有一个弹窗，希望助教能够谅解。
