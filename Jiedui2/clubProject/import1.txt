@@ -1,0 +1,6170 @@
+{
+  "students": [
+    {
+      "xuehao": "031502101",
+      "chengji": 62,
+      "xingqu": [
+        "film",
+        "study",
+        "programming",
+        "reading"
+      ],
+      "yiyuan": [
+        "D18",
+        "D09",
+        "D19",
+        "D06",
+        "D14"
+      ],
+      "kongxian": [
+        "Sun.14:00~16:00",
+        "Thur.20:00~22:00",
+        "Fri.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502102",
+      "chengji": 77,
+      "xingqu": [
+        "sing",
+        "football"
+      ],
+      "yiyuan": [
+        "D13",
+        "D01"
+      ],
+      "kongxian": [
+        "Fri.22:00~24:00",
+        "Thur.18:00~20:00",
+        "Fri.8:00~10:00",
+        "Mon.18:00~20:00",
+        "Sat.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502103",
+      "chengji": 87,
+      "xingqu": [
+        "reading",
+        "film",
+        "programming",
+        "chess"
+      ],
+      "yiyuan": [
+        "D08",
+        "D19"
+      ],
+      "kongxian": [
+        "Mon.18:00~20:00",
+        "Mon.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502104",
+      "chengji": 41,
+      "xingqu": [
+        "reading",
+        "programming",
+        "football"
+      ],
+      "yiyuan": [
+        "D19",
+        "D10",
+        "D20"
+      ],
+      "kongxian": [
+        "Wed.16:00~18:00",
+        "Tues.18:00~20:00",
+        "Mon.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502105",
+      "chengji": 82,
+      "xingqu": [
+        "basktball",
+        "chess",
+        "programming"
+      ],
+      "yiyuan": [
+        "D09",
+        "D06",
+        "D20"
+      ],
+      "kongxian": [
+        "Fri.12:00~14:00",
+        "Sun.16:00~18:00",
+        "Sun.20:00~22:00",
+        "Fri.8:00~10:00",
+        "Fri.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502106",
+      "chengji": 68,
+      "xingqu": [
+        "study",
+        "football",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D03"
+      ],
+      "kongxian": [
+        "Tues.20:00~21:00",
+        "Thur.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502107",
+      "chengji": 92,
+      "xingqu": [
+        "football",
+        "sing",
+        "gameing",
+        "study"
+      ],
+      "yiyuan": [
+        "D14",
+        "D07",
+        "D06"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Sat.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502108",
+      "chengji": 52,
+      "xingqu": [
+        "basktball",
+        "study"
+      ],
+      "yiyuan": [
+        "D03",
+        "D10",
+        "D18",
+        "D09",
+        "D06"
+      ],
+      "kongxian": [
+        "Wed.20:00~22:00",
+        "Mon.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502109",
+      "chengji": 98,
+      "xingqu": [
+        "reading",
+        "study",
+        "football",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D07"
+      ],
+      "kongxian": [
+        "Sun.8:00~10:00",
+        "Mon.22:00~24:00",
+        "Tues.18:00~20:00",
+        "Tues.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502110",
+      "chengji": 52,
+      "xingqu": [
+        "sing",
+        "basktball",
+        "dance",
+        "reading"
+      ],
+      "yiyuan": [
+        "D01",
+        "D04",
+        "D09",
+        "D13",
+        "D06"
+      ],
+      "kongxian": [
+        "Mon.8:00~10:00",
+        "Sat.14:00~16:00",
+        "Tues.20:00~21:00"
+      ]
+    },
+    {
+      "xuehao": "031502111",
+      "chengji": 54,
+      "xingqu": [
+        "film",
+        "programming",
+        "sing"
+      ],
+      "yiyuan": [
+        "D03",
+        "D09",
+        "D01",
+        "D11"
+      ],
+      "kongxian": [
+        "Fri.8:00~10:00",
+        "Sun.16:00~18:00",
+        "Tues.12:00~14:00",
+        "Sun.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502112",
+      "chengji": 68,
+      "xingqu": [
+        "reading",
+        "chess"
+      ],
+      "yiyuan": [
+        "D13",
+        "D12",
+        "D06"
+      ],
+      "kongxian": [
+        "Sun.14:00~16:00",
+        "Fri.12:00~14:00",
+        "Thur.18:00~20:00",
+        "Wed.16:00~18:00",
+        "Thur.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502113",
+      "chengji": 64,
+      "xingqu": [
+        "football",
+        "dance"
+      ],
+      "yiyuan": [
+        "D04",
+        "D20",
+        "D11",
+        "D16"
+      ],
+      "kongxian": [
+        "Sun.8:00~10:00",
+        "Thur.18:00~20:00",
+        "Thur.20:00~22:00",
+        "Tues.20:00~21:00",
+        "Sun.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502114",
+      "chengji": 65,
+      "xingqu": [
+        "dance",
+        "reading",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D20",
+        "D14",
+        "D19",
+        "D11"
+      ],
+      "kongxian": [
+        "Sun.8:00~10:00",
+        "Sun.20:00~22:00",
+        "Mon.22:00~24:00",
+        "Thur.20:00~22:00",
+        "Wed.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502115",
+      "chengji": 64,
+      "xingqu": [
+        "sing",
+        "gameing",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D07",
+        "D04",
+        "D16"
+      ],
+      "kongxian": [
+        "Mon.8:00~10:00",
+        "Thur.18:00~20:00",
+        "Mon.22:00~24:00",
+        "Sun.8:00~10:00",
+        "Fri.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502116",
+      "chengji": 99,
+      "xingqu": [
+        "film",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D17",
+        "D07",
+        "D09"
+      ],
+      "kongxian": [
+        "Sun.14:00~16:00",
+        "Sat.20:00~22:00",
+        "Mon.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502117",
+      "chengji": 70,
+      "xingqu": [
+        "film",
+        "study",
+        "basktball",
+        "dance"
+      ],
+      "yiyuan": [
+        "D10",
+        "D11",
+        "D19"
+      ],
+      "kongxian": [
+        "Tues.12:00~14:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502118",
+      "chengji": 92,
+      "xingqu": [
+        "reading",
+        "sing",
+        "football",
+        "dance"
+      ],
+      "yiyuan": [
+        "D01",
+        "D20",
+        "D17",
+        "D15"
+      ],
+      "kongxian": [
+        "Sat.20:00~22:00",
+        "Sun.16:00~18:00",
+        "Wed.16:00~18:00",
+        "Sun.14:00~16:00",
+        "Sun.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502119",
+      "chengji": 69,
+      "xingqu": [
+        "reading",
+        "chess"
+      ],
+      "yiyuan": [
+        "D06"
+      ],
+      "kongxian": [
+        "Fri.8:00~10:00",
+        "Mon.22:00~24:00",
+        "Sun.16:00~18:00",
+        "Sun.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502120",
+      "chengji": 92,
+      "xingqu": [
+        "film",
+        "dance"
+      ],
+      "yiyuan": [
+        "D20",
+        "D02",
+        "D12"
+      ],
+      "kongxian": [
+        "Tues.20:00~21:00",
+        "Fri.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502121",
+      "chengji": 94,
+      "xingqu": [
+        "chess",
+        "sing"
+      ],
+      "yiyuan": [
+        "D11",
+        "D10",
+        "D17"
+      ],
+      "kongxian": [
+        "Wed.20:00~22:00",
+        "Wed.16:00~18:00",
+        "Thur.14:00~16:00",
+        "Sun.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502122",
+      "chengji": 30,
+      "xingqu": [
+        "dance",
+        "programming",
+        "film"
+      ],
+      "yiyuan": [
+        "D11"
+      ],
+      "kongxian": [
+        "Fri.8:00~10:00",
+        "Thur.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502123",
+      "chengji": 76,
+      "xingqu": [
+        "chess",
+        "study"
+      ],
+      "yiyuan": [
+        "D07",
+        "D13"
+      ],
+      "kongxian": [
+        "Wed.20:00~22:00",
+        "Mon.22:00~24:00",
+        "Tues.20:00~21:00"
+      ]
+    },
+    {
+      "xuehao": "031502124",
+      "chengji": 33,
+      "xingqu": [
+        "gameing",
+        "dance",
+        "chess"
+      ],
+      "yiyuan": [
+        "D05",
+        "D17",
+        "D14"
+      ],
+      "kongxian": [
+        "Fri.12:00~14:00",
+        "Wed.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502125",
+      "chengji": 32,
+      "xingqu": [
+        "gameing",
+        "chess"
+      ],
+      "yiyuan": [
+        "D20",
+        "D06"
+      ],
+      "kongxian": [
+        "Mon.18:00~20:00",
+        "Tues.18:00~20:00",
+        "Thur.20:00~22:00",
+        "Wed.20:00~22:00",
+        "Thur.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502126",
+      "chengji": 31,
+      "xingqu": [
+        "film",
+        "study"
+      ],
+      "yiyuan": [
+        "D18"
+      ],
+      "kongxian": [
+        "Mon.22:00~24:00",
+        "Sat.14:00~16:00",
+        "Fri.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502127",
+      "chengji": 51,
+      "xingqu": [
+        "programming",
+        "basktball",
+        "study"
+      ],
+      "yiyuan": [
+        "D08",
+        "D13",
+        "D18",
+        "D03"
+      ],
+      "kongxian": [
+        "Mon.22:00~24:00",
+        "Fri.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502128",
+      "chengji": 39,
+      "xingqu": [
+        "football",
+        "reading"
+      ],
+      "yiyuan": [
+        "D17",
+        "D14",
+        "D12"
+      ],
+      "kongxian": [
+        "Sun.8:00~10:00",
+        "Mon.22:00~24:00",
+        "Mon.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502129",
+      "chengji": 34,
+      "xingqu": [
+        "basktball",
+        "gameing",
+        "sing"
+      ],
+      "yiyuan": [
+        "D18",
+        "D11",
+        "D19"
+      ],
+      "kongxian": [
+        "Fri.8:00~10:00",
+        "Thur.20:00~22:00",
+        "Thur.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502130",
+      "chengji": 74,
+      "xingqu": [
+        "sing",
+        "programming"
+      ],
+      "yiyuan": [
+        "D16",
+        "D18",
+        "D05",
+        "D20",
+        "D14"
+      ],
+      "kongxian": [
+        "Wed.20:00~22:00",
+        "Fri.12:00~14:00",
+        "Thur.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502131",
+      "chengji": 41,
+      "xingqu": [
+        "reading",
+        "gameing",
+        "dance",
+        "study"
+      ],
+      "yiyuan": [
+        "D10",
+        "D20",
+        "D04",
+        "D03"
+      ],
+      "kongxian": [
+        "Tues.20:00~21:00",
+        "Thur.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502132",
+      "chengji": 82,
+      "xingqu": [
+        "gameing",
+        "chess"
+      ],
+      "yiyuan": [
+        "D16",
+        "D04",
+        "D01",
+        "D06"
+      ],
+      "kongxian": [
+        "Sat.20:00~22:00",
+        "Mon.18:00~20:00",
+        "Tues.20:00~21:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502133",
+      "chengji": 55,
+      "xingqu": [
+        "dance",
+        "film",
+        "programming",
+        "football"
+      ],
+      "yiyuan": [
+        "D06",
+        "D15",
+        "D14"
+      ],
+      "kongxian": [
+        "Tues.18:00~20:00",
+        "Sun.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502134",
+      "chengji": 76,
+      "xingqu": [
+        "gameing",
+        "film",
+        "chess",
+        "football"
+      ],
+      "yiyuan": [
+        "D14",
+        "D20",
+        "D19"
+      ],
+      "kongxian": [
+        "Fri.12:00~14:00",
+        "Thur.20:00~22:00",
+        "Tues.20:00~21:00",
+        "Sun.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502135",
+      "chengji": 49,
+      "xingqu": [
+        "gameing",
+        "football"
+      ],
+      "yiyuan": [
+        "D04",
+        "D18"
+      ],
+      "kongxian": [
+        "Tues.12:00~14:00",
+        "Wed.16:00~18:00",
+        "Thur.18:00~20:00",
+        "Mon.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502136",
+      "chengji": 61,
+      "xingqu": [
+        "gameing",
+        "football"
+      ],
+      "yiyuan": [
+        "D02",
+        "D10",
+        "D03"
+      ],
+      "kongxian": [
+        "Sun.14:00~16:00",
+        "Mon.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502137",
+      "chengji": 72,
+      "xingqu": [
+        "chess",
+        "gameing",
+        "film",
+        "football"
+      ],
+      "yiyuan": [
+        "D02",
+        "D11",
+        "D20"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Tues.18:00~20:00",
+        "Wed.16:00~18:00",
+        "Mon.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502138",
+      "chengji": 43,
+      "xingqu": [
+        "basktball",
+        "sing",
+        "film",
+        "football"
+      ],
+      "yiyuan": [
+        "D17"
+      ],
+      "kongxian": [
+        "Sat.14:00~16:00",
+        "Tues.12:00~14:00",
+        "Fri.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502139",
+      "chengji": 70,
+      "xingqu": [
+        "basktball",
+        "programming"
+      ],
+      "yiyuan": [
+        "D20",
+        "D03",
+        "D08",
+        "D17"
+      ],
+      "kongxian": [
+        "Sat.20:00~22:00",
+        "Fri.22:00~24:00",
+        "Mon.18:00~20:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502140",
+      "chengji": 40,
+      "xingqu": [
+        "reading",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D03",
+        "D10"
+      ],
+      "kongxian": [
+        "Sun.16:00~18:00",
+        "Wed.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502141",
+      "chengji": 86,
+      "xingqu": [
+        "film",
+        "programming",
+        "basktball",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D16",
+        "D17"
+      ],
+      "kongxian": [
+        "Fri.8:00~10:00",
+        "Fri.12:00~14:00",
+        "Sun.16:00~18:00",
+        "Thur.14:00~16:00",
+        "Sun.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502142",
+      "chengji": 52,
+      "xingqu": [
+        "film",
+        "reading",
+        "sing"
+      ],
+      "yiyuan": [
+        "D05",
+        "D20",
+        "D10",
+        "D06",
+        "D15"
+      ],
+      "kongxian": [
+        "Tues.18:00~20:00",
+        "Sat.20:00~22:00",
+        "Sun.20:00~22:00",
+        "Tues.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502143",
+      "chengji": 43,
+      "xingqu": [
+        "dance",
+        "football"
+      ],
+      "yiyuan": [
+        "D17",
+        "D10",
+        "D04"
+      ],
+      "kongxian": [
+        "Tues.12:00~14:00",
+        "Wed.16:00~18:00",
+        "Fri.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502144",
+      "chengji": 79,
+      "xingqu": [
+        "gameing",
+        "sing"
+      ],
+      "yiyuan": [
+        "D15",
+        "D17",
+        "D16",
+        "D12"
+      ],
+      "kongxian": [
+        "Wed.16:00~18:00",
+        "Thur.20:00~22:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502145",
+      "chengji": 86,
+      "xingqu": [
+        "basktball",
+        "film",
+        "dance"
+      ],
+      "yiyuan": [
+        "D16",
+        "D17",
+        "D01",
+        "D09",
+        "D20"
+      ],
+      "kongxian": [
+        "Sun.16:00~18:00",
+        "Thur.20:00~22:00",
+        "Mon.8:00~10:00",
+        "Fri.22:00~24:00",
+        "Thur.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502146",
+      "chengji": 77,
+      "xingqu": [
+        "basktball",
+        "sing",
+        "programming",
+        "chess"
+      ],
+      "yiyuan": [
+        "D20"
+      ],
+      "kongxian": [
+        "Sun.14:00~16:00",
+        "Tues.20:00~21:00",
+        "Thur.18:00~20:00",
+        "Sun.8:00~10:00",
+        "Sat.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502147",
+      "chengji": 98,
+      "xingqu": [
+        "programming",
+        "reading",
+        "football"
+      ],
+      "yiyuan": [
+        "D11",
+        "D17",
+        "D19",
+        "D07"
+      ],
+      "kongxian": [
+        "Fri.12:00~14:00",
+        "Tues.20:00~21:00",
+        "Sun.16:00~18:00",
+        "Thur.18:00~20:00",
+        "Thur.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502148",
+      "chengji": 48,
+      "xingqu": [
+        "chess",
+        "study"
+      ],
+      "yiyuan": [
+        "D04",
+        "D05",
+        "D17"
+      ],
+      "kongxian": [
+        "Sun.8:00~10:00",
+        "Thur.20:00~22:00",
+        "Sun.20:00~22:00",
+        "Sat.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502149",
+      "chengji": 90,
+      "xingqu": [
+        "sing",
+        "chess"
+      ],
+      "yiyuan": [
+        "D16",
+        "D20",
+        "D15",
+        "D18"
+      ],
+      "kongxian": [
+        "Tues.12:00~14:00",
+        "Wed.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502150",
+      "chengji": 84,
+      "xingqu": [
+        "dance",
+        "gameing",
+        "basktball",
+        "programming"
+      ],
+      "yiyuan": [
+        "D15",
+        "D07",
+        "D14"
+      ],
+      "kongxian": [
+        "Mon.22:00~24:00",
+        "Tues.18:00~20:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502201",
+      "chengji": 62,
+      "xingqu": [
+        "sing",
+        "reading",
+        "football",
+        "film"
+      ],
+      "yiyuan": [
+        "D13",
+        "D02",
+        "D15",
+        "D20",
+        "D01"
+      ],
+      "kongxian": [
+        "Mon.8:00~10:00",
+        "Tues.20:00~21:00"
+      ]
+    },
+    {
+      "xuehao": "031502202",
+      "chengji": 45,
+      "xingqu": [
+        "football",
+        "reading",
+        "sing",
+        "chess"
+      ],
+      "yiyuan": [
+        "D02",
+        "D14",
+        "D18",
+        "D01"
+      ],
+      "kongxian": [
+        "Thur.14:00~16:00",
+        "Sun.8:00~10:00",
+        "Mon.8:00~10:00",
+        "Wed.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502203",
+      "chengji": 83,
+      "xingqu": [
+        "programming",
+        "sing",
+        "basktball",
+        "film"
+      ],
+      "yiyuan": [
+        "D13",
+        "D17"
+      ],
+      "kongxian": [
+        "Sun.20:00~22:00",
+        "Mon.8:00~10:00",
+        "Tues.12:00~14:00",
+        "Tues.20:00~21:00",
+        "Fri.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502204",
+      "chengji": 98,
+      "xingqu": [
+        "basktball",
+        "chess"
+      ],
+      "yiyuan": [
+        "D19",
+        "D06",
+        "D12",
+        "D02"
+      ],
+      "kongxian": [
+        "Fri.8:00~10:00",
+        "Sun.20:00~22:00",
+        "Tues.12:00~14:00",
+        "Sun.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502205",
+      "chengji": 60,
+      "xingqu": [
+        "study",
+        "gameing",
+        "programming"
+      ],
+      "yiyuan": [
+        "D11",
+        "D15",
+        "D20",
+        "D14"
+      ],
+      "kongxian": [
+        "Tues.12:00~14:00",
+        "Mon.18:00~20:00",
+        "Thur.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502206",
+      "chengji": 32,
+      "xingqu": [
+        "basktball",
+        "reading",
+        "study"
+      ],
+      "yiyuan": [
+        "D05",
+        "D14",
+        "D12",
+        "D17",
+        "D01"
+      ],
+      "kongxian": [
+        "Sun.20:00~22:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502207",
+      "chengji": 89,
+      "xingqu": [
+        "dance",
+        "football",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D01",
+        "D12"
+      ],
+      "kongxian": [
+        "Sun.16:00~18:00",
+        "Sun.8:00~10:00",
+        "Wed.20:00~22:00",
+        "Sun.20:00~22:00",
+        "Sat.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502208",
+      "chengji": 70,
+      "xingqu": [
+        "study",
+        "film"
+      ],
+      "yiyuan": [
+        "D12",
+        "D13",
+        "D07",
+        "D05",
+        "D01"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502209",
+      "chengji": 39,
+      "xingqu": [
+        "football",
+        "chess"
+      ],
+      "yiyuan": [
+        "D17",
+        "D14",
+        "D13"
+      ],
+      "kongxian": [
+        "Sun.20:00~22:00",
+        "Thur.20:00~22:00",
+        "Fri.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502210",
+      "chengji": 55,
+      "xingqu": [
+        "football",
+        "gameing",
+        "reading",
+        "chess"
+      ],
+      "yiyuan": [
+        "D01",
+        "D16",
+        "D15"
+      ],
+      "kongxian": [
+        "Fri.8:00~10:00",
+        "Wed.20:00~22:00",
+        "Wed.16:00~18:00",
+        "Mon.18:00~20:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502211",
+      "chengji": 93,
+      "xingqu": [
+        "study",
+        "sing",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D06"
+      ],
+      "kongxian": [
+        "Thur.18:00~20:00",
+        "Tues.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502212",
+      "chengji": 70,
+      "xingqu": [
+        "basktball",
+        "study"
+      ],
+      "yiyuan": [
+        "D02",
+        "D09",
+        "D18",
+        "D14"
+      ],
+      "kongxian": [
+        "Wed.16:00~18:00",
+        "Fri.8:00~10:00",
+        "Fri.22:00~24:00",
+        "Thur.14:00~16:00",
+        "Mon.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502213",
+      "chengji": 55,
+      "xingqu": [
+        "dance",
+        "reading",
+        "sing",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D08",
+        "D17",
+        "D18"
+      ],
+      "kongxian": [
+        "Sun.14:00~16:00",
+        "Sat.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502214",
+      "chengji": 59,
+      "xingqu": [
+        "reading",
+        "basktball",
+        "chess",
+        "study"
+      ],
+      "yiyuan": [
+        "D03",
+        "D11",
+        "D07"
+      ],
+      "kongxian": [
+        "Tues.18:00~20:00",
+        "Mon.22:00~24:00",
+        "Thur.20:00~22:00",
+        "Thur.18:00~20:00",
+        "Fri.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502215",
+      "chengji": 84,
+      "xingqu": [
+        "gameing",
+        "football",
+        "dance",
+        "programming"
+      ],
+      "yiyuan": [
+        "D17",
+        "D15"
+      ],
+      "kongxian": [
+        "Wed.16:00~18:00",
+        "Sun.8:00~10:00",
+        "Mon.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502216",
+      "chengji": 46,
+      "xingqu": [
+        "sing",
+        "reading",
+        "dance",
+        "film"
+      ],
+      "yiyuan": [
+        "D04"
+      ],
+      "kongxian": [
+        "Thur.18:00~20:00",
+        "Tues.20:00~21:00",
+        "Sun.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502217",
+      "chengji": 64,
+      "xingqu": [
+        "gameing",
+        "programming",
+        "film",
+        "sing"
+      ],
+      "yiyuan": [
+        "D03",
+        "D07",
+        "D02",
+        "D20"
+      ],
+      "kongxian": [
+        "Fri.22:00~24:00",
+        "Sun.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502218",
+      "chengji": 66,
+      "xingqu": [
+        "film",
+        "programming",
+        "gameing",
+        "dance"
+      ],
+      "yiyuan": [
+        "D05",
+        "D16",
+        "D08",
+        "D19"
+      ],
+      "kongxian": [
+        "Sun.14:00~16:00",
+        "Sat.14:00~16:00",
+        "Tues.12:00~14:00",
+        "Mon.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502219",
+      "chengji": 70,
+      "xingqu": [
+        "programming",
+        "basktball",
+        "dance"
+      ],
+      "yiyuan": [
+        "D19",
+        "D18",
+        "D09",
+        "D01"
+      ],
+      "kongxian": [
+        "Wed.20:00~22:00",
+        "Sat.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502220",
+      "chengji": 41,
+      "xingqu": [
+        "study",
+        "football",
+        "film"
+      ],
+      "yiyuan": [
+        "D11",
+        "D13",
+        "D16",
+        "D19"
+      ],
+      "kongxian": [
+        "Fri.22:00~24:00",
+        "Sun.14:00~16:00",
+        "Sun.20:00~22:00",
+        "Tues.20:00~21:00"
+      ]
+    },
+    {
+      "xuehao": "031502221",
+      "chengji": 82,
+      "xingqu": [
+        "study",
+        "programming"
+      ],
+      "yiyuan": [
+        "D13",
+        "D11"
+      ],
+      "kongxian": [
+        "Mon.8:00~10:00",
+        "Mon.22:00~24:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502222",
+      "chengji": 41,
+      "xingqu": [
+        "football",
+        "study"
+      ],
+      "yiyuan": [
+        "D18",
+        "D06",
+        "D14"
+      ],
+      "kongxian": [
+        "Fri.12:00~14:00",
+        "Tues.12:00~14:00",
+        "Fri.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502223",
+      "chengji": 45,
+      "xingqu": [
+        "gameing",
+        "film",
+        "chess",
+        "study"
+      ],
+      "yiyuan": [
+        "D10",
+        "D13",
+        "D19"
+      ],
+      "kongxian": [
+        "Tues.12:00~14:00",
+        "Thur.20:00~22:00",
+        "Sat.20:00~22:00",
+        "Mon.8:00~10:00",
+        "Sun.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502224",
+      "chengji": 43,
+      "xingqu": [
+        "gameing",
+        "film",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D05",
+        "D04",
+        "D16",
+        "D03",
+        "D20"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Fri.12:00~14:00",
+        "Tues.20:00~21:00",
+        "Mon.22:00~24:00",
+        "Mon.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502225",
+      "chengji": 39,
+      "xingqu": [
+        "chess",
+        "football",
+        "study"
+      ],
+      "yiyuan": [
+        "D09"
+      ],
+      "kongxian": [
+        "Fri.8:00~10:00",
+        "Sat.20:00~22:00",
+        "Tues.12:00~14:00",
+        "Wed.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502226",
+      "chengji": 45,
+      "xingqu": [
+        "programming",
+        "chess",
+        "basktball",
+        "reading"
+      ],
+      "yiyuan": [
+        "D11",
+        "D07",
+        "D16",
+        "D13",
+        "D19"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Thur.18:00~20:00",
+        "Mon.22:00~24:00",
+        "Sat.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502227",
+      "chengji": 45,
+      "xingqu": [
+        "study",
+        "film",
+        "sing"
+      ],
+      "yiyuan": [
+        "D14",
+        "D11"
+      ],
+      "kongxian": [
+        "Fri.8:00~10:00",
+        "Thur.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502228",
+      "chengji": 64,
+      "xingqu": [
+        "study",
+        "gameing",
+        "football",
+        "dance"
+      ],
+      "yiyuan": [
+        "D17",
+        "D10"
+      ],
+      "kongxian": [
+        "Fri.22:00~24:00",
+        "Sat.20:00~22:00",
+        "Thur.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502229",
+      "chengji": 50,
+      "xingqu": [
+        "reading",
+        "football",
+        "dance",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D14",
+        "D03",
+        "D11"
+      ],
+      "kongxian": [
+        "Tues.12:00~14:00",
+        "Sun.14:00~16:00",
+        "Fri.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502230",
+      "chengji": 56,
+      "xingqu": [
+        "football",
+        "dance",
+        "basktball",
+        "chess"
+      ],
+      "yiyuan": [
+        "D05",
+        "D06",
+        "D03"
+      ],
+      "kongxian": [
+        "Mon.22:00~24:00",
+        "Sun.14:00~16:00",
+        "Sun.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502231",
+      "chengji": 85,
+      "xingqu": [
+        "film",
+        "programming",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D08",
+        "D06",
+        "D17",
+        "D18"
+      ],
+      "kongxian": [
+        "Tues.12:00~14:00",
+        "Wed.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502232",
+      "chengji": 63,
+      "xingqu": [
+        "sing",
+        "football",
+        "film"
+      ],
+      "yiyuan": [
+        "D05",
+        "D17",
+        "D11",
+        "D13"
+      ],
+      "kongxian": [
+        "Sun.8:00~10:00",
+        "Sun.20:00~22:00",
+        "Tues.20:00~21:00",
+        "Sat.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502233",
+      "chengji": 40,
+      "xingqu": [
+        "football",
+        "chess"
+      ],
+      "yiyuan": [
+        "D01",
+        "D10"
+      ],
+      "kongxian": [
+        "Thur.14:00~16:00",
+        "Fri.22:00~24:00",
+        "Sat.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502234",
+      "chengji": 97,
+      "xingqu": [
+        "sing",
+        "basktball",
+        "film",
+        "programming"
+      ],
+      "yiyuan": [
+        "D04",
+        "D02",
+        "D13"
+      ],
+      "kongxian": [
+        "Wed.16:00~18:00",
+        "Sun.14:00~16:00",
+        "Tues.20:00~21:00",
+        "Sun.16:00~18:00",
+        "Mon.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502235",
+      "chengji": 46,
+      "xingqu": [
+        "gameing",
+        "reading"
+      ],
+      "yiyuan": [
+        "D08",
+        "D14"
+      ],
+      "kongxian": [
+        "Tues.12:00~14:00",
+        "Mon.22:00~24:00",
+        "Mon.8:00~10:00",
+        "Sat.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502236",
+      "chengji": 63,
+      "xingqu": [
+        "film",
+        "study",
+        "chess"
+      ],
+      "yiyuan": [
+        "D02",
+        "D11",
+        "D03",
+        "D20"
+      ],
+      "kongxian": [
+        "Fri.8:00~10:00",
+        "Sat.20:00~22:00",
+        "Thur.18:00~20:00",
+        "Thur.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502237",
+      "chengji": 99,
+      "xingqu": [
+        "dance",
+        "chess",
+        "reading"
+      ],
+      "yiyuan": [
+        "D08"
+      ],
+      "kongxian": [
+        "Fri.22:00~24:00",
+        "Tues.18:00~20:00",
+        "Sun.16:00~18:00",
+        "Sun.14:00~16:00",
+        "Mon.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502238",
+      "chengji": 41,
+      "xingqu": [
+        "reading",
+        "film"
+      ],
+      "yiyuan": [
+        "D20"
+      ],
+      "kongxian": [
+        "Tues.18:00~20:00",
+        "Fri.8:00~10:00",
+        "Fri.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502239",
+      "chengji": 86,
+      "xingqu": [
+        "reading",
+        "gameing",
+        "study"
+      ],
+      "yiyuan": [
+        "D15",
+        "D20",
+        "D12",
+        "D05",
+        "D07"
+      ],
+      "kongxian": [
+        "Sat.20:00~22:00",
+        "Sun.8:00~10:00",
+        "Mon.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502240",
+      "chengji": 74,
+      "xingqu": [
+        "programming",
+        "dance"
+      ],
+      "yiyuan": [
+        "D17"
+      ],
+      "kongxian": [
+        "Fri.22:00~24:00",
+        "Thur.20:00~22:00",
+        "Sat.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502241",
+      "chengji": 48,
+      "xingqu": [
+        "basktball",
+        "sing",
+        "gameing",
+        "chess"
+      ],
+      "yiyuan": [
+        "D19",
+        "D12",
+        "D02",
+        "D14"
+      ],
+      "kongxian": [
+        "Sat.20:00~22:00",
+        "Mon.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502242",
+      "chengji": 36,
+      "xingqu": [
+        "programming",
+        "film",
+        "dance",
+        "study"
+      ],
+      "yiyuan": [
+        "D07"
+      ],
+      "kongxian": [
+        "Tues.12:00~14:00",
+        "Thur.18:00~20:00",
+        "Sun.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502243",
+      "chengji": 87,
+      "xingqu": [
+        "basktball",
+        "dance",
+        "football"
+      ],
+      "yiyuan": [
+        "D15",
+        "D01",
+        "D05",
+        "D20"
+      ],
+      "kongxian": [
+        "Tues.12:00~14:00",
+        "Sun.16:00~18:00",
+        "Sat.14:00~16:00",
+        "Fri.8:00~10:00",
+        "Thur.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502244",
+      "chengji": 39,
+      "xingqu": [
+        "chess",
+        "basktball",
+        "dance"
+      ],
+      "yiyuan": [
+        "D11",
+        "D16"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Sun.14:00~16:00",
+        "Fri.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502245",
+      "chengji": 42,
+      "xingqu": [
+        "basktball",
+        "sing",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D20",
+        "D13"
+      ],
+      "kongxian": [
+        "Wed.20:00~22:00",
+        "Thur.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502246",
+      "chengji": 99,
+      "xingqu": [
+        "reading",
+        "dance",
+        "sing"
+      ],
+      "yiyuan": [
+        "D18",
+        "D09",
+        "D10",
+        "D06",
+        "D15"
+      ],
+      "kongxian": [
+        "Fri.8:00~10:00",
+        "Fri.12:00~14:00",
+        "Sun.8:00~10:00",
+        "Tues.18:00~20:00",
+        "Thur.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502247",
+      "chengji": 51,
+      "xingqu": [
+        "chess",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D11",
+        "D08",
+        "D16",
+        "D17"
+      ],
+      "kongxian": [
+        "Mon.22:00~24:00",
+        "Sat.14:00~16:00",
+        "Fri.8:00~10:00",
+        "Sun.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502248",
+      "chengji": 43,
+      "xingqu": [
+        "sing",
+        "gameing",
+        "programming",
+        "study"
+      ],
+      "yiyuan": [
+        "D14",
+        "D12",
+        "D17",
+        "D05",
+        "D19"
+      ],
+      "kongxian": [
+        "Tues.12:00~14:00",
+        "Sun.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502249",
+      "chengji": 48,
+      "xingqu": [
+        "gameing",
+        "football",
+        "dance",
+        "chess"
+      ],
+      "yiyuan": [
+        "D10",
+        "D07"
+      ],
+      "kongxian": [
+        "Sun.14:00~16:00",
+        "Thur.18:00~20:00",
+        "Sun.8:00~10:00",
+        "Fri.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502250",
+      "chengji": 83,
+      "xingqu": [
+        "gameing",
+        "programming",
+        "chess",
+        "football"
+      ],
+      "yiyuan": [
+        "D10",
+        "D16",
+        "D20",
+        "D01",
+        "D18"
+      ],
+      "kongxian": [
+        "Wed.16:00~18:00",
+        "Sun.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502301",
+      "chengji": 94,
+      "xingqu": [
+        "reading",
+        "film",
+        "gameing",
+        "football"
+      ],
+      "yiyuan": [
+        "D09",
+        "D15"
+      ],
+      "kongxian": [
+        "Sun.8:00~10:00",
+        "Fri.12:00~14:00",
+        "Sun.16:00~18:00",
+        "Sun.14:00~16:00",
+        "Mon.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502302",
+      "chengji": 70,
+      "xingqu": [
+        "football",
+        "basktball",
+        "study",
+        "chess"
+      ],
+      "yiyuan": [
+        "D04"
+      ],
+      "kongxian": [
+        "Fri.8:00~10:00",
+        "Wed.20:00~22:00",
+        "Sun.14:00~16:00",
+        "Thur.14:00~16:00",
+        "Mon.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502303",
+      "chengji": 42,
+      "xingqu": [
+        "dance",
+        "reading",
+        "study"
+      ],
+      "yiyuan": [
+        "D12"
+      ],
+      "kongxian": [
+        "Tues.18:00~20:00",
+        "Thur.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502304",
+      "chengji": 92,
+      "xingqu": [
+        "basktball",
+        "sing",
+        "reading"
+      ],
+      "yiyuan": [
+        "D10",
+        "D20",
+        "D07"
+      ],
+      "kongxian": [
+        "Sat.20:00~22:00",
+        "Fri.22:00~24:00",
+        "Sun.20:00~22:00",
+        "Thur.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502305",
+      "chengji": 55,
+      "xingqu": [
+        "reading",
+        "programming"
+      ],
+      "yiyuan": [
+        "D18"
+      ],
+      "kongxian": [
+        "Wed.16:00~18:00",
+        "Tues.20:00~21:00",
+        "Wed.20:00~22:00",
+        "Fri.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502306",
+      "chengji": 45,
+      "xingqu": [
+        "dance",
+        "reading",
+        "chess"
+      ],
+      "yiyuan": [
+        "D09",
+        "D04",
+        "D02",
+        "D14",
+        "D16"
+      ],
+      "kongxian": [
+        "Fri.8:00~10:00",
+        "Sun.16:00~18:00",
+        "Wed.16:00~18:00",
+        "Sun.20:00~22:00",
+        "Fri.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502307",
+      "chengji": 98,
+      "xingqu": [
+        "sing",
+        "chess",
+        "study"
+      ],
+      "yiyuan": [
+        "D02"
+      ],
+      "kongxian": [
+        "Thur.18:00~20:00",
+        "Wed.16:00~18:00",
+        "Sun.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502308",
+      "chengji": 91,
+      "xingqu": [
+        "programming",
+        "chess",
+        "gameing",
+        "reading"
+      ],
+      "yiyuan": [
+        "D18",
+        "D16",
+        "D13",
+        "D12"
+      ],
+      "kongxian": [
+        "Sun.16:00~18:00",
+        "Thur.14:00~16:00",
+        "Tues.12:00~14:00",
+        "Fri.22:00~24:00",
+        "Sun.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502309",
+      "chengji": 30,
+      "xingqu": [
+        "reading",
+        "gameing",
+        "football"
+      ],
+      "yiyuan": [
+        "D20"
+      ],
+      "kongxian": [
+        "Wed.20:00~22:00",
+        "Sun.8:00~10:00",
+        "Sun.14:00~16:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502310",
+      "chengji": 32,
+      "xingqu": [
+        "football",
+        "dance"
+      ],
+      "yiyuan": [
+        "D11",
+        "D06",
+        "D12",
+        "D13",
+        "D20"
+      ],
+      "kongxian": [
+        "Sat.14:00~16:00",
+        "Sun.16:00~18:00",
+        "Thur.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502311",
+      "chengji": 75,
+      "xingqu": [
+        "dance",
+        "study"
+      ],
+      "yiyuan": [
+        "D13",
+        "D05",
+        "D08",
+        "D12",
+        "D20"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Sun.16:00~18:00",
+        "Wed.20:00~22:00",
+        "Fri.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502312",
+      "chengji": 64,
+      "xingqu": [
+        "programming",
+        "film",
+        "study",
+        "reading"
+      ],
+      "yiyuan": [
+        "D14"
+      ],
+      "kongxian": [
+        "Fri.12:00~14:00",
+        "Thur.18:00~20:00",
+        "Wed.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502313",
+      "chengji": 71,
+      "xingqu": [
+        "dance",
+        "film"
+      ],
+      "yiyuan": [
+        "D16"
+      ],
+      "kongxian": [
+        "Mon.22:00~24:00",
+        "Fri.8:00~10:00",
+        "Sat.14:00~16:00",
+        "Sun.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502314",
+      "chengji": 46,
+      "xingqu": [
+        "chess",
+        "film",
+        "football",
+        "programming"
+      ],
+      "yiyuan": [
+        "D01",
+        "D09",
+        "D14",
+        "D13",
+        "D18"
+      ],
+      "kongxian": [
+        "Sun.16:00~18:00",
+        "Sun.8:00~10:00",
+        "Mon.22:00~24:00",
+        "Tues.18:00~20:00",
+        "Tues.20:00~21:00"
+      ]
+    },
+    {
+      "xuehao": "031502315",
+      "chengji": 73,
+      "xingqu": [
+        "football",
+        "dance",
+        "film"
+      ],
+      "yiyuan": [
+        "D09",
+        "D08",
+        "D07",
+        "D16"
+      ],
+      "kongxian": [
+        "Tues.20:00~21:00",
+        "Tues.12:00~14:00",
+        "Tues.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502316",
+      "chengji": 73,
+      "xingqu": [
+        "dance",
+        "sing",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D16",
+        "D08",
+        "D20",
+        "D14"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Sat.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502317",
+      "chengji": 95,
+      "xingqu": [
+        "football",
+        "reading"
+      ],
+      "yiyuan": [
+        "D04",
+        "D11",
+        "D06",
+        "D08"
+      ],
+      "kongxian": [
+        "Mon.8:00~10:00",
+        "Sun.16:00~18:00",
+        "Sun.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502318",
+      "chengji": 78,
+      "xingqu": [
+        "football",
+        "study"
+      ],
+      "yiyuan": [
+        "D16",
+        "D11",
+        "D06",
+        "D14",
+        "D01"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502319",
+      "chengji": 66,
+      "xingqu": [
+        "film",
+        "gameing",
+        "dance",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D18"
+      ],
+      "kongxian": [
+        "Sun.16:00~18:00",
+        "Sun.20:00~22:00",
+        "Wed.20:00~22:00",
+        "Sat.14:00~16:00",
+        "Wed.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502320",
+      "chengji": 71,
+      "xingqu": [
+        "study",
+        "sing",
+        "football"
+      ],
+      "yiyuan": [
+        "D05",
+        "D13",
+        "D15",
+        "D09"
+      ],
+      "kongxian": [
+        "Wed.20:00~22:00",
+        "Sun.20:00~22:00",
+        "Sun.8:00~10:00",
+        "Mon.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502321",
+      "chengji": 60,
+      "xingqu": [
+        "dance",
+        "chess",
+        "study",
+        "sing"
+      ],
+      "yiyuan": [
+        "D17",
+        "D12",
+        "D20"
+      ],
+      "kongxian": [
+        "Thur.18:00~20:00",
+        "Fri.12:00~14:00",
+        "Thur.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502322",
+      "chengji": 74,
+      "xingqu": [
+        "programming",
+        "reading",
+        "gameing",
+        "film"
+      ],
+      "yiyuan": [
+        "D18",
+        "D05",
+        "D19"
+      ],
+      "kongxian": [
+        "Sun.20:00~22:00",
+        "Wed.16:00~18:00",
+        "Fri.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502323",
+      "chengji": 61,
+      "xingqu": [
+        "gameing",
+        "football",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D19"
+      ],
+      "kongxian": [
+        "Sat.20:00~22:00",
+        "Tues.18:00~20:00",
+        "Thur.18:00~20:00",
+        "Sun.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502324",
+      "chengji": 50,
+      "xingqu": [
+        "sing",
+        "study"
+      ],
+      "yiyuan": [
+        "D16",
+        "D11",
+        "D15",
+        "D19",
+        "D08"
+      ],
+      "kongxian": [
+        "Tues.20:00~21:00",
+        "Wed.16:00~18:00",
+        "Tues.18:00~20:00",
+        "Sun.16:00~18:00",
+        "Sat.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502325",
+      "chengji": 64,
+      "xingqu": [
+        "basktball",
+        "study",
+        "sing"
+      ],
+      "yiyuan": [
+        "D20",
+        "D14",
+        "D01",
+        "D10",
+        "D16"
+      ],
+      "kongxian": [
+        "Thur.18:00~20:00",
+        "Thur.20:00~22:00",
+        "Sat.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502326",
+      "chengji": 49,
+      "xingqu": [
+        "reading",
+        "gameing",
+        "sing",
+        "study"
+      ],
+      "yiyuan": [
+        "D07",
+        "D13"
+      ],
+      "kongxian": [
+        "Mon.18:00~20:00",
+        "Thur.14:00~16:00",
+        "Sun.8:00~10:00",
+        "Sun.20:00~22:00",
+        "Fri.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502327",
+      "chengji": 86,
+      "xingqu": [
+        "study",
+        "football",
+        "chess",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D11",
+        "D12"
+      ],
+      "kongxian": [
+        "Tues.18:00~20:00",
+        "Tues.20:00~21:00"
+      ]
+    },
+    {
+      "xuehao": "031502328",
+      "chengji": 81,
+      "xingqu": [
+        "dance",
+        "gameing",
+        "reading",
+        "sing"
+      ],
+      "yiyuan": [
+        "D02"
+      ],
+      "kongxian": [
+        "Mon.18:00~20:00",
+        "Tues.12:00~14:00",
+        "Sat.14:00~16:00",
+        "Wed.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502329",
+      "chengji": 64,
+      "xingqu": [
+        "study",
+        "film"
+      ],
+      "yiyuan": [
+        "D19",
+        "D15",
+        "D09",
+        "D07"
+      ],
+      "kongxian": [
+        "Fri.12:00~14:00",
+        "Sat.14:00~16:00",
+        "Sun.20:00~22:00",
+        "Wed.16:00~18:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502330",
+      "chengji": 62,
+      "xingqu": [
+        "study",
+        "film"
+      ],
+      "yiyuan": [
+        "D16",
+        "D15",
+        "D02"
+      ],
+      "kongxian": [
+        "Mon.18:00~20:00",
+        "Fri.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502331",
+      "chengji": 55,
+      "xingqu": [
+        "programming",
+        "study",
+        "film",
+        "sing"
+      ],
+      "yiyuan": [
+        "D13",
+        "D12",
+        "D01",
+        "D09",
+        "D20"
+      ],
+      "kongxian": [
+        "Mon.18:00~20:00",
+        "Sun.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502332",
+      "chengji": 89,
+      "xingqu": [
+        "chess",
+        "film",
+        "sing",
+        "football"
+      ],
+      "yiyuan": [
+        "D08",
+        "D20",
+        "D11",
+        "D01",
+        "D07"
+      ],
+      "kongxian": [
+        "Fri.12:00~14:00",
+        "Mon.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502333",
+      "chengji": 92,
+      "xingqu": [
+        "reading",
+        "dance",
+        "gameing",
+        "film"
+      ],
+      "yiyuan": [
+        "D20",
+        "D04",
+        "D10",
+        "D03"
+      ],
+      "kongxian": [
+        "Mon.8:00~10:00",
+        "Wed.16:00~18:00",
+        "Fri.22:00~24:00",
+        "Tues.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502334",
+      "chengji": 98,
+      "xingqu": [
+        "chess",
+        "gameing",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D17",
+        "D01"
+      ],
+      "kongxian": [
+        "Sun.14:00~16:00",
+        "Sun.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502335",
+      "chengji": 89,
+      "xingqu": [
+        "football",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D11"
+      ],
+      "kongxian": [
+        "Thur.14:00~16:00",
+        "Sun.14:00~16:00",
+        "Tues.20:00~21:00"
+      ]
+    },
+    {
+      "xuehao": "031502336",
+      "chengji": 49,
+      "xingqu": [
+        "film",
+        "programming",
+        "basktball",
+        "dance"
+      ],
+      "yiyuan": [
+        "D04"
+      ],
+      "kongxian": [
+        "Mon.18:00~20:00",
+        "Tues.18:00~20:00",
+        "Wed.16:00~18:00",
+        "Tues.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502337",
+      "chengji": 66,
+      "xingqu": [
+        "gameing",
+        "chess"
+      ],
+      "yiyuan": [
+        "D04"
+      ],
+      "kongxian": [
+        "Wed.16:00~18:00",
+        "Thur.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502338",
+      "chengji": 99,
+      "xingqu": [
+        "football",
+        "film"
+      ],
+      "yiyuan": [
+        "D19",
+        "D09",
+        "D06"
+      ],
+      "kongxian": [
+        "Fri.12:00~14:00",
+        "Thur.20:00~22:00",
+        "Tues.18:00~20:00",
+        "Sun.14:00~16:00",
+        "Thur.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502339",
+      "chengji": 86,
+      "xingqu": [
+        "gameing",
+        "reading"
+      ],
+      "yiyuan": [
+        "D05",
+        "D13",
+        "D15",
+        "D17",
+        "D18"
+      ],
+      "kongxian": [
+        "Sun.14:00~16:00",
+        "Thur.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502340",
+      "chengji": 97,
+      "xingqu": [
+        "basktball",
+        "film",
+        "chess",
+        "sing"
+      ],
+      "yiyuan": [
+        "D05",
+        "D12",
+        "D06",
+        "D14",
+        "D01"
+      ],
+      "kongxian": [
+        "Sat.20:00~22:00",
+        "Tues.12:00~14:00",
+        "Sun.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502341",
+      "chengji": 81,
+      "xingqu": [
+        "chess",
+        "film",
+        "study",
+        "football"
+      ],
+      "yiyuan": [
+        "D13"
+      ],
+      "kongxian": [
+        "Wed.20:00~22:00",
+        "Thur.20:00~22:00",
+        "Sat.20:00~22:00",
+        "Sun.8:00~10:00",
+        "Mon.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502342",
+      "chengji": 99,
+      "xingqu": [
+        "study",
+        "dance"
+      ],
+      "yiyuan": [
+        "D15",
+        "D11",
+        "D20",
+        "D03",
+        "D13"
+      ],
+      "kongxian": [
+        "Fri.22:00~24:00",
+        "Sat.14:00~16:00",
+        "Tues.20:00~21:00"
+      ]
+    },
+    {
+      "xuehao": "031502343",
+      "chengji": 40,
+      "xingqu": [
+        "chess",
+        "dance"
+      ],
+      "yiyuan": [
+        "D04",
+        "D13",
+        "D15",
+        "D10",
+        "D06"
+      ],
+      "kongxian": [
+        "Tues.12:00~14:00",
+        "Tues.18:00~20:00",
+        "Mon.18:00~20:00",
+        "Sun.14:00~16:00",
+        "Mon.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502344",
+      "chengji": 56,
+      "xingqu": [
+        "basktball",
+        "programming",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D20"
+      ],
+      "kongxian": [
+        "Sun.20:00~22:00",
+        "Sun.14:00~16:00",
+        "Fri.8:00~10:00",
+        "Fri.12:00~14:00",
+        "Wed.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502345",
+      "chengji": 61,
+      "xingqu": [
+        "chess",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D05",
+        "D19",
+        "D02"
+      ],
+      "kongxian": [
+        "Wed.16:00~18:00",
+        "Thur.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502346",
+      "chengji": 83,
+      "xingqu": [
+        "football",
+        "reading"
+      ],
+      "yiyuan": [
+        "D07"
+      ],
+      "kongxian": [
+        "Fri.8:00~10:00",
+        "Tues.12:00~14:00",
+        "Tues.20:00~21:00",
+        "Sat.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502347",
+      "chengji": 37,
+      "xingqu": [
+        "chess",
+        "study",
+        "gameing",
+        "football"
+      ],
+      "yiyuan": [
+        "D15",
+        "D04",
+        "D05"
+      ],
+      "kongxian": [
+        "Sun.16:00~18:00",
+        "Fri.12:00~14:00",
+        "Sun.8:00~10:00",
+        "Mon.18:00~20:00",
+        "Tues.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502348",
+      "chengji": 42,
+      "xingqu": [
+        "programming",
+        "sing"
+      ],
+      "yiyuan": [
+        "D03"
+      ],
+      "kongxian": [
+        "Sun.16:00~18:00",
+        "Tues.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502349",
+      "chengji": 45,
+      "xingqu": [
+        "study",
+        "film"
+      ],
+      "yiyuan": [
+        "D13",
+        "D12"
+      ],
+      "kongxian": [
+        "Sun.8:00~10:00",
+        "Fri.12:00~14:00",
+        "Fri.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502350",
+      "chengji": 97,
+      "xingqu": [
+        "football",
+        "film",
+        "sing",
+        "reading"
+      ],
+      "yiyuan": [
+        "D08",
+        "D04",
+        "D06",
+        "D13",
+        "D05"
+      ],
+      "kongxian": [
+        "Fri.22:00~24:00",
+        "Sat.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502401",
+      "chengji": 85,
+      "xingqu": [
+        "study",
+        "dance",
+        "football",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D05",
+        "D10"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Tues.18:00~20:00",
+        "Sun.8:00~10:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502402",
+      "chengji": 96,
+      "xingqu": [
+        "football",
+        "reading",
+        "basktball",
+        "chess"
+      ],
+      "yiyuan": [
+        "D14",
+        "D12",
+        "D19"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Tues.18:00~20:00",
+        "Wed.16:00~18:00",
+        "Sun.8:00~10:00",
+        "Tues.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502403",
+      "chengji": 71,
+      "xingqu": [
+        "study",
+        "dance",
+        "football",
+        "sing"
+      ],
+      "yiyuan": [
+        "D04",
+        "D01",
+        "D02",
+        "D19",
+        "D18"
+      ],
+      "kongxian": [
+        "Mon.18:00~20:00",
+        "Sat.14:00~16:00",
+        "Wed.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502404",
+      "chengji": 99,
+      "xingqu": [
+        "reading",
+        "film"
+      ],
+      "yiyuan": [
+        "D04"
+      ],
+      "kongxian": [
+        "Fri.8:00~10:00",
+        "Sat.14:00~16:00",
+        "Mon.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502405",
+      "chengji": 75,
+      "xingqu": [
+        "film",
+        "reading",
+        "sing",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D01",
+        "D19",
+        "D07"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Fri.12:00~14:00",
+        "Tues.20:00~21:00",
+        "Sun.8:00~10:00",
+        "Sun.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502406",
+      "chengji": 76,
+      "xingqu": [
+        "gameing",
+        "chess"
+      ],
+      "yiyuan": [
+        "D04"
+      ],
+      "kongxian": [
+        "Sat.20:00~22:00",
+        "Tues.20:00~21:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502407",
+      "chengji": 44,
+      "xingqu": [
+        "dance",
+        "programming",
+        "gameing",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D19",
+        "D15",
+        "D14",
+        "D20"
+      ],
+      "kongxian": [
+        "Fri.12:00~14:00",
+        "Sun.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502408",
+      "chengji": 67,
+      "xingqu": [
+        "basktball",
+        "football",
+        "dance"
+      ],
+      "yiyuan": [
+        "D15",
+        "D16",
+        "D11"
+      ],
+      "kongxian": [
+        "Thur.14:00~16:00",
+        "Sat.20:00~22:00",
+        "Mon.8:00~10:00",
+        "Sun.20:00~22:00",
+        "Mon.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502409",
+      "chengji": 94,
+      "xingqu": [
+        "reading",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D20",
+        "D12",
+        "D04",
+        "D15",
+        "D05"
+      ],
+      "kongxian": [
+        "Sat.14:00~16:00",
+        "Tues.20:00~21:00",
+        "Fri.8:00~10:00",
+        "Sun.16:00~18:00",
+        "Mon.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502410",
+      "chengji": 80,
+      "xingqu": [
+        "film",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D16",
+        "D19"
+      ],
+      "kongxian": [
+        "Sun.20:00~22:00",
+        "Thur.20:00~22:00",
+        "Wed.20:00~22:00",
+        "Mon.18:00~20:00",
+        "Fri.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502411",
+      "chengji": 70,
+      "xingqu": [
+        "basktball",
+        "chess",
+        "reading",
+        "sing"
+      ],
+      "yiyuan": [
+        "D13",
+        "D02"
+      ],
+      "kongxian": [
+        "Mon.18:00~20:00",
+        "Mon.8:00~10:00",
+        "Thur.20:00~22:00",
+        "Tues.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502412",
+      "chengji": 82,
+      "xingqu": [
+        "chess",
+        "programming",
+        "sing"
+      ],
+      "yiyuan": [
+        "D03",
+        "D18",
+        "D10"
+      ],
+      "kongxian": [
+        "Fri.12:00~14:00",
+        "Sun.8:00~10:00",
+        "Tues.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502413",
+      "chengji": 58,
+      "xingqu": [
+        "sing",
+        "football",
+        "study",
+        "chess"
+      ],
+      "yiyuan": [
+        "D08",
+        "D11",
+        "D18",
+        "D06"
+      ],
+      "kongxian": [
+        "Sat.14:00~16:00",
+        "Fri.12:00~14:00",
+        "Sat.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502414",
+      "chengji": 62,
+      "xingqu": [
+        "study",
+        "programming"
+      ],
+      "yiyuan": [
+        "D11"
+      ],
+      "kongxian": [
+        "Sun.14:00~16:00",
+        "Fri.8:00~10:00",
+        "Sat.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502415",
+      "chengji": 38,
+      "xingqu": [
+        "reading",
+        "chess",
+        "sing"
+      ],
+      "yiyuan": [
+        "D09",
+        "D11",
+        "D19",
+        "D07",
+        "D01"
+      ],
+      "kongxian": [
+        "Sat.14:00~16:00",
+        "Thur.18:00~20:00",
+        "Wed.20:00~22:00",
+        "Sun.16:00~18:00",
+        "Sun.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502416",
+      "chengji": 69,
+      "xingqu": [
+        "dance",
+        "reading",
+        "sing"
+      ],
+      "yiyuan": [
+        "D01",
+        "D09",
+        "D06",
+        "D08"
+      ],
+      "kongxian": [
+        "Wed.20:00~22:00",
+        "Tues.18:00~20:00",
+        "Tues.12:00~14:00",
+        "Sat.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502417",
+      "chengji": 73,
+      "xingqu": [
+        "study",
+        "gameing",
+        "sing"
+      ],
+      "yiyuan": [
+        "D03",
+        "D20",
+        "D11",
+        "D12"
+      ],
+      "kongxian": [
+        "Thur.18:00~20:00",
+        "Mon.22:00~24:00",
+        "Sun.16:00~18:00",
+        "Sun.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502418",
+      "chengji": 91,
+      "xingqu": [
+        "programming",
+        "basktball",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D07",
+        "D04",
+        "D08",
+        "D19"
+      ],
+      "kongxian": [
+        "Mon.22:00~24:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502419",
+      "chengji": 45,
+      "xingqu": [
+        "chess",
+        "dance",
+        "study",
+        "programming"
+      ],
+      "yiyuan": [
+        "D05"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Fri.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502420",
+      "chengji": 34,
+      "xingqu": [
+        "gameing",
+        "football"
+      ],
+      "yiyuan": [
+        "D01"
+      ],
+      "kongxian": [
+        "Thur.18:00~20:00",
+        "Tues.18:00~20:00",
+        "Sun.14:00~16:00",
+        "Mon.8:00~10:00",
+        "Fri.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502421",
+      "chengji": 71,
+      "xingqu": [
+        "sing",
+        "football",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D07",
+        "D13",
+        "D17"
+      ],
+      "kongxian": [
+        "Mon.22:00~24:00",
+        "Tues.20:00~21:00",
+        "Sun.8:00~10:00",
+        "Sun.16:00~18:00",
+        "Tues.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502422",
+      "chengji": 93,
+      "xingqu": [
+        "study",
+        "gameing",
+        "dance",
+        "football"
+      ],
+      "yiyuan": [
+        "D08",
+        "D05"
+      ],
+      "kongxian": [
+        "Wed.16:00~18:00",
+        "Tues.18:00~20:00",
+        "Thur.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502423",
+      "chengji": 81,
+      "xingqu": [
+        "basktball",
+        "gameing",
+        "programming"
+      ],
+      "yiyuan": [
+        "D17",
+        "D01",
+        "D11"
+      ],
+      "kongxian": [
+        "Fri.22:00~24:00",
+        "Tues.20:00~21:00",
+        "Sun.14:00~16:00",
+        "Sat.20:00~22:00",
+        "Mon.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502424",
+      "chengji": 42,
+      "xingqu": [
+        "basktball",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D12",
+        "D11",
+        "D04"
+      ],
+      "kongxian": [
+        "Thur.18:00~20:00",
+        "Sun.14:00~16:00",
+        "Sun.8:00~10:00",
+        "Tues.12:00~14:00",
+        "Thur.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502425",
+      "chengji": 74,
+      "xingqu": [
+        "basktball",
+        "gameing",
+        "film",
+        "sing"
+      ],
+      "yiyuan": [
+        "D14",
+        "D13"
+      ],
+      "kongxian": [
+        "Sat.20:00~22:00",
+        "Sun.14:00~16:00",
+        "Sun.16:00~18:00",
+        "Sat.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502426",
+      "chengji": 84,
+      "xingqu": [
+        "football",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D16",
+        "D09",
+        "D17",
+        "D13",
+        "D01"
+      ],
+      "kongxian": [
+        "Sat.14:00~16:00",
+        "Mon.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502427",
+      "chengji": 63,
+      "xingqu": [
+        "study",
+        "programming",
+        "film"
+      ],
+      "yiyuan": [
+        "D02"
+      ],
+      "kongxian": [
+        "Fri.22:00~24:00",
+        "Thur.20:00~22:00",
+        "Sat.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502428",
+      "chengji": 84,
+      "xingqu": [
+        "film",
+        "reading",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D04",
+        "D13",
+        "D15"
+      ],
+      "kongxian": [
+        "Sun.14:00~16:00",
+        "Wed.20:00~22:00",
+        "Tues.18:00~20:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502429",
+      "chengji": 36,
+      "xingqu": [
+        "dance",
+        "football"
+      ],
+      "yiyuan": [
+        "D10",
+        "D11",
+        "D06",
+        "D04",
+        "D15"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Fri.8:00~10:00",
+        "Tues.18:00~20:00",
+        "Thur.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502430",
+      "chengji": 82,
+      "xingqu": [
+        "chess",
+        "gameing",
+        "sing"
+      ],
+      "yiyuan": [
+        "D19",
+        "D15"
+      ],
+      "kongxian": [
+        "Thur.14:00~16:00",
+        "Mon.22:00~24:00",
+        "Sun.16:00~18:00",
+        "Sat.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502431",
+      "chengji": 56,
+      "xingqu": [
+        "reading",
+        "basktball",
+        "chess",
+        "film"
+      ],
+      "yiyuan": [
+        "D18",
+        "D12",
+        "D08",
+        "D04"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Fri.22:00~24:00",
+        "Tues.12:00~14:00",
+        "Wed.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502432",
+      "chengji": 88,
+      "xingqu": [
+        "programming",
+        "film",
+        "dance",
+        "sing"
+      ],
+      "yiyuan": [
+        "D18",
+        "D17",
+        "D09"
+      ],
+      "kongxian": [
+        "Sat.14:00~16:00",
+        "Sun.16:00~18:00",
+        "Sun.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502433",
+      "chengji": 89,
+      "xingqu": [
+        "reading",
+        "football",
+        "dance",
+        "study"
+      ],
+      "yiyuan": [
+        "D18"
+      ],
+      "kongxian": [
+        "Sun.20:00~22:00",
+        "Fri.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502434",
+      "chengji": 57,
+      "xingqu": [
+        "sing",
+        "football"
+      ],
+      "yiyuan": [
+        "D16",
+        "D13",
+        "D18",
+        "D19"
+      ],
+      "kongxian": [
+        "Wed.16:00~18:00",
+        "Mon.22:00~24:00",
+        "Sat.14:00~16:00",
+        "Thur.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502435",
+      "chengji": 92,
+      "xingqu": [
+        "film",
+        "gameing",
+        "study",
+        "reading"
+      ],
+      "yiyuan": [
+        "D20"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Thur.14:00~16:00",
+        "Wed.20:00~22:00",
+        "Fri.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502436",
+      "chengji": 84,
+      "xingqu": [
+        "film",
+        "study",
+        "sing",
+        "reading"
+      ],
+      "yiyuan": [
+        "D10"
+      ],
+      "kongxian": [
+        "Sat.20:00~22:00",
+        "Sun.8:00~10:00",
+        "Tues.18:00~20:00",
+        "Wed.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502437",
+      "chengji": 66,
+      "xingqu": [
+        "reading",
+        "chess"
+      ],
+      "yiyuan": [
+        "D12"
+      ],
+      "kongxian": [
+        "Sun.16:00~18:00",
+        "Fri.22:00~24:00",
+        "Tues.12:00~14:00",
+        "Sun.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502438",
+      "chengji": 58,
+      "xingqu": [
+        "programming",
+        "sing",
+        "study",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D08"
+      ],
+      "kongxian": [
+        "Sat.20:00~22:00",
+        "Sun.16:00~18:00",
+        "Sat.14:00~16:00",
+        "Fri.12:00~14:00",
+        "Fri.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502439",
+      "chengji": 35,
+      "xingqu": [
+        "film",
+        "dance",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D08"
+      ],
+      "kongxian": [
+        "Wed.16:00~18:00",
+        "Sat.14:00~16:00",
+        "Fri.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502440",
+      "chengji": 94,
+      "xingqu": [
+        "chess",
+        "dance"
+      ],
+      "yiyuan": [
+        "D16",
+        "D05",
+        "D01",
+        "D09"
+      ],
+      "kongxian": [
+        "Sun.20:00~22:00",
+        "Wed.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502441",
+      "chengji": 65,
+      "xingqu": [
+        "reading",
+        "sing",
+        "dance",
+        "film"
+      ],
+      "yiyuan": [
+        "D02",
+        "D12",
+        "D15",
+        "D03"
+      ],
+      "kongxian": [
+        "Thur.18:00~20:00",
+        "Thur.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502442",
+      "chengji": 94,
+      "xingqu": [
+        "sing",
+        "dance",
+        "film"
+      ],
+      "yiyuan": [
+        "D07",
+        "D12",
+        "D10",
+        "D17",
+        "D05"
+      ],
+      "kongxian": [
+        "Thur.14:00~16:00",
+        "Thur.20:00~22:00",
+        "Tues.20:00~21:00",
+        "Wed.16:00~18:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502443",
+      "chengji": 38,
+      "xingqu": [
+        "basktball",
+        "study"
+      ],
+      "yiyuan": [
+        "D15"
+      ],
+      "kongxian": [
+        "Mon.8:00~10:00",
+        "Tues.20:00~21:00",
+        "Mon.18:00~20:00",
+        "Sun.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502444",
+      "chengji": 44,
+      "xingqu": [
+        "sing",
+        "programming",
+        "football"
+      ],
+      "yiyuan": [
+        "D04",
+        "D20",
+        "D15",
+        "D05"
+      ],
+      "kongxian": [
+        "Sat.14:00~16:00",
+        "Mon.8:00~10:00",
+        "Tues.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502445",
+      "chengji": 34,
+      "xingqu": [
+        "reading",
+        "film",
+        "sing",
+        "programming"
+      ],
+      "yiyuan": [
+        "D02",
+        "D16"
+      ],
+      "kongxian": [
+        "Wed.16:00~18:00",
+        "Tues.12:00~14:00",
+        "Mon.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502446",
+      "chengji": 64,
+      "xingqu": [
+        "dance",
+        "reading"
+      ],
+      "yiyuan": [
+        "D03",
+        "D16",
+        "D01",
+        "D07",
+        "D15"
+      ],
+      "kongxian": [
+        "Wed.16:00~18:00",
+        "Thur.14:00~16:00",
+        "Fri.22:00~24:00",
+        "Mon.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502447",
+      "chengji": 59,
+      "xingqu": [
+        "sing",
+        "study",
+        "programming",
+        "reading"
+      ],
+      "yiyuan": [
+        "D15",
+        "D18",
+        "D20"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Sat.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502448",
+      "chengji": 36,
+      "xingqu": [
+        "basktball",
+        "chess",
+        "sing",
+        "reading"
+      ],
+      "yiyuan": [
+        "D18",
+        "D10",
+        "D16",
+        "D07",
+        "D20"
+      ],
+      "kongxian": [
+        "Sat.14:00~16:00",
+        "Tues.18:00~20:00",
+        "Tues.12:00~14:00",
+        "Sun.8:00~10:00",
+        "Mon.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502449",
+      "chengji": 37,
+      "xingqu": [
+        "gameing",
+        "dance"
+      ],
+      "yiyuan": [
+        "D20",
+        "D07",
+        "D18",
+        "D14",
+        "D05"
+      ],
+      "kongxian": [
+        "Thur.14:00~16:00",
+        "Tues.20:00~21:00",
+        "Fri.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502450",
+      "chengji": 81,
+      "xingqu": [
+        "dance",
+        "study",
+        "chess"
+      ],
+      "yiyuan": [
+        "D17",
+        "D15",
+        "D19"
+      ],
+      "kongxian": [
+        "Mon.18:00~20:00",
+        "Fri.12:00~14:00",
+        "Sun.20:00~22:00",
+        "Tues.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502501",
+      "chengji": 50,
+      "xingqu": [
+        "dance",
+        "chess",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D15",
+        "D04"
+      ],
+      "kongxian": [
+        "Wed.20:00~22:00",
+        "Fri.8:00~10:00",
+        "Sun.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502502",
+      "chengji": 95,
+      "xingqu": [
+        "basktball",
+        "sing"
+      ],
+      "yiyuan": [
+        "D15",
+        "D12",
+        "D05"
+      ],
+      "kongxian": [
+        "Mon.18:00~20:00",
+        "Mon.8:00~10:00",
+        "Mon.22:00~24:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502503",
+      "chengji": 31,
+      "xingqu": [
+        "basktball",
+        "study"
+      ],
+      "yiyuan": [
+        "D07",
+        "D20",
+        "D14"
+      ],
+      "kongxian": [
+        "Fri.22:00~24:00",
+        "Fri.12:00~14:00",
+        "Tues.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502504",
+      "chengji": 43,
+      "xingqu": [
+        "football",
+        "study"
+      ],
+      "yiyuan": [
+        "D18",
+        "D01",
+        "D04",
+        "D13"
+      ],
+      "kongxian": [
+        "Wed.20:00~22:00",
+        "Mon.18:00~20:00",
+        "Tues.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502505",
+      "chengji": 70,
+      "xingqu": [
+        "sing",
+        "reading"
+      ],
+      "yiyuan": [
+        "D09",
+        "D03",
+        "D12",
+        "D08"
+      ],
+      "kongxian": [
+        "Fri.12:00~14:00",
+        "Tues.12:00~14:00",
+        "Wed.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502506",
+      "chengji": 91,
+      "xingqu": [
+        "film",
+        "gameing",
+        "study"
+      ],
+      "yiyuan": [
+        "D14",
+        "D11",
+        "D09",
+        "D04",
+        "D05"
+      ],
+      "kongxian": [
+        "Mon.22:00~24:00",
+        "Wed.16:00~18:00",
+        "Fri.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502507",
+      "chengji": 36,
+      "xingqu": [
+        "sing",
+        "reading",
+        "football"
+      ],
+      "yiyuan": [
+        "D10",
+        "D08",
+        "D05",
+        "D16"
+      ],
+      "kongxian": [
+        "Fri.12:00~14:00",
+        "Wed.16:00~18:00",
+        "Thur.14:00~16:00",
+        "Fri.22:00~24:00",
+        "Thur.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502508",
+      "chengji": 96,
+      "xingqu": [
+        "study",
+        "dance"
+      ],
+      "yiyuan": [
+        "D05"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Sun.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502509",
+      "chengji": 90,
+      "xingqu": [
+        "gameing",
+        "film"
+      ],
+      "yiyuan": [
+        "D07",
+        "D05",
+        "D16"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Wed.20:00~22:00",
+        "Tues.20:00~21:00",
+        "Mon.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502510",
+      "chengji": 88,
+      "xingqu": [
+        "sing",
+        "programming"
+      ],
+      "yiyuan": [
+        "D10",
+        "D07"
+      ],
+      "kongxian": [
+        "Sun.20:00~22:00",
+        "Fri.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502511",
+      "chengji": 79,
+      "xingqu": [
+        "reading",
+        "sing",
+        "film",
+        "programming"
+      ],
+      "yiyuan": [
+        "D06",
+        "D08"
+      ],
+      "kongxian": [
+        "Mon.18:00~20:00",
+        "Tues.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502512",
+      "chengji": 53,
+      "xingqu": [
+        "basktball",
+        "dance",
+        "study",
+        "sing"
+      ],
+      "yiyuan": [
+        "D10",
+        "D09",
+        "D12",
+        "D14",
+        "D13"
+      ],
+      "kongxian": [
+        "Tues.18:00~20:00",
+        "Tues.20:00~21:00"
+      ]
+    },
+    {
+      "xuehao": "031502513",
+      "chengji": 73,
+      "xingqu": [
+        "football",
+        "sing",
+        "reading",
+        "study"
+      ],
+      "yiyuan": [
+        "D03",
+        "D11",
+        "D17",
+        "D10",
+        "D08"
+      ],
+      "kongxian": [
+        "Sat.20:00~22:00",
+        "Fri.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502514",
+      "chengji": 95,
+      "xingqu": [
+        "study",
+        "programming",
+        "dance"
+      ],
+      "yiyuan": [
+        "D06",
+        "D20"
+      ],
+      "kongxian": [
+        "Wed.20:00~22:00",
+        "Tues.18:00~20:00",
+        "Tues.20:00~21:00",
+        "Thur.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502515",
+      "chengji": 62,
+      "xingqu": [
+        "sing",
+        "study",
+        "reading",
+        "chess"
+      ],
+      "yiyuan": [
+        "D18"
+      ],
+      "kongxian": [
+        "Sat.20:00~22:00",
+        "Wed.20:00~22:00",
+        "Fri.12:00~14:00",
+        "Fri.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502516",
+      "chengji": 61,
+      "xingqu": [
+        "reading",
+        "study"
+      ],
+      "yiyuan": [
+        "D11",
+        "D01",
+        "D04",
+        "D15"
+      ],
+      "kongxian": [
+        "Sat.20:00~22:00",
+        "Tues.20:00~21:00",
+        "Mon.8:00~10:00",
+        "Sun.14:00~16:00",
+        "Tues.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502517",
+      "chengji": 56,
+      "xingqu": [
+        "film",
+        "basktball",
+        "study"
+      ],
+      "yiyuan": [
+        "D06",
+        "D18",
+        "D04",
+        "D12",
+        "D07"
+      ],
+      "kongxian": [
+        "Thur.14:00~16:00",
+        "Sun.8:00~10:00",
+        "Sun.20:00~22:00",
+        "Sat.14:00~16:00",
+        "Wed.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502518",
+      "chengji": 58,
+      "xingqu": [
+        "reading",
+        "film",
+        "programming"
+      ],
+      "yiyuan": [
+        "D01",
+        "D08"
+      ],
+      "kongxian": [
+        "Fri.12:00~14:00",
+        "Mon.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502519",
+      "chengji": 58,
+      "xingqu": [
+        "sing",
+        "basktball",
+        "dance",
+        "study"
+      ],
+      "yiyuan": [
+        "D15",
+        "D17",
+        "D07",
+        "D10",
+        "D12"
+      ],
+      "kongxian": [
+        "Sun.14:00~16:00",
+        "Fri.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502520",
+      "chengji": 79,
+      "xingqu": [
+        "gameing",
+        "reading"
+      ],
+      "yiyuan": [
+        "D01",
+        "D10",
+        "D17"
+      ],
+      "kongxian": [
+        "Sat.14:00~16:00",
+        "Thur.20:00~22:00",
+        "Sat.20:00~22:00",
+        "Fri.12:00~14:00",
+        "Sun.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502521",
+      "chengji": 94,
+      "xingqu": [
+        "gameing",
+        "reading",
+        "film",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D13",
+        "D14",
+        "D05",
+        "D18",
+        "D06"
+      ],
+      "kongxian": [
+        "Tues.12:00~14:00",
+        "Thur.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502522",
+      "chengji": 88,
+      "xingqu": [
+        "dance",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D19"
+      ],
+      "kongxian": [
+        "Sun.16:00~18:00",
+        "Mon.22:00~24:00",
+        "Wed.16:00~18:00",
+        "Fri.12:00~14:00",
+        "Sun.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502523",
+      "chengji": 79,
+      "xingqu": [
+        "basktball",
+        "football"
+      ],
+      "yiyuan": [
+        "D20",
+        "D17",
+        "D14",
+        "D06",
+        "D12"
+      ],
+      "kongxian": [
+        "Sat.20:00~22:00",
+        "Thur.20:00~22:00",
+        "Thur.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502524",
+      "chengji": 69,
+      "xingqu": [
+        "sing",
+        "gameing",
+        "dance"
+      ],
+      "yiyuan": [
+        "D08",
+        "D20",
+        "D13",
+        "D15",
+        "D09"
+      ],
+      "kongxian": [
+        "Wed.16:00~18:00",
+        "Fri.12:00~14:00",
+        "Thur.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502525",
+      "chengji": 57,
+      "xingqu": [
+        "sing",
+        "study"
+      ],
+      "yiyuan": [
+        "D01",
+        "D15",
+        "D05",
+        "D07",
+        "D16"
+      ],
+      "kongxian": [
+        "Sun.8:00~10:00",
+        "Sat.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502526",
+      "chengji": 87,
+      "xingqu": [
+        "sing",
+        "reading",
+        "programming"
+      ],
+      "yiyuan": [
+        "D04",
+        "D03"
+      ],
+      "kongxian": [
+        "Sat.20:00~22:00",
+        "Mon.8:00~10:00",
+        "Sun.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502527",
+      "chengji": 88,
+      "xingqu": [
+        "dance",
+        "chess",
+        "programming",
+        "sing"
+      ],
+      "yiyuan": [
+        "D03",
+        "D16",
+        "D12",
+        "D04",
+        "D01"
+      ],
+      "kongxian": [
+        "Sat.14:00~16:00",
+        "Wed.16:00~18:00",
+        "Tues.18:00~20:00",
+        "Tues.20:00~21:00",
+        "Mon.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502528",
+      "chengji": 72,
+      "xingqu": [
+        "basktball",
+        "study"
+      ],
+      "yiyuan": [
+        "D15"
+      ],
+      "kongxian": [
+        "Fri.12:00~14:00",
+        "Sun.14:00~16:00",
+        "Thur.18:00~20:00",
+        "Mon.22:00~24:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502529",
+      "chengji": 70,
+      "xingqu": [
+        "film",
+        "study",
+        "chess",
+        "programming"
+      ],
+      "yiyuan": [
+        "D02",
+        "D03",
+        "D12",
+        "D17"
+      ],
+      "kongxian": [
+        "Thur.18:00~20:00",
+        "Thur.14:00~16:00",
+        "Fri.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502530",
+      "chengji": 83,
+      "xingqu": [
+        "reading",
+        "programming",
+        "football"
+      ],
+      "yiyuan": [
+        "D07",
+        "D11",
+        "D09",
+        "D03",
+        "D04"
+      ],
+      "kongxian": [
+        "Thur.18:00~20:00",
+        "Thur.14:00~16:00",
+        "Tues.20:00~21:00",
+        "Thur.20:00~22:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502531",
+      "chengji": 99,
+      "xingqu": [
+        "reading",
+        "chess",
+        "basktball",
+        "football"
+      ],
+      "yiyuan": [
+        "D05",
+        "D09",
+        "D10",
+        "D06"
+      ],
+      "kongxian": [
+        "Sat.14:00~16:00",
+        "Wed.20:00~22:00",
+        "Tues.20:00~21:00",
+        "Wed.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502532",
+      "chengji": 63,
+      "xingqu": [
+        "gameing",
+        "dance",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D02",
+        "D03",
+        "D14",
+        "D13",
+        "D17"
+      ],
+      "kongxian": [
+        "Tues.20:00~21:00",
+        "Thur.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502533",
+      "chengji": 74,
+      "xingqu": [
+        "study",
+        "gameing",
+        "film"
+      ],
+      "yiyuan": [
+        "D02"
+      ],
+      "kongxian": [
+        "Mon.18:00~20:00",
+        "Thur.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502534",
+      "chengji": 40,
+      "xingqu": [
+        "basktball",
+        "sing",
+        "football"
+      ],
+      "yiyuan": [
+        "D06",
+        "D03"
+      ],
+      "kongxian": [
+        "Thur.18:00~20:00",
+        "Tues.20:00~21:00",
+        "Fri.12:00~14:00",
+        "Sat.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502535",
+      "chengji": 50,
+      "xingqu": [
+        "chess",
+        "reading"
+      ],
+      "yiyuan": [
+        "D02",
+        "D17",
+        "D18",
+        "D12"
+      ],
+      "kongxian": [
+        "Tues.12:00~14:00",
+        "Mon.18:00~20:00",
+        "Sun.8:00~10:00",
+        "Tues.18:00~20:00",
+        "Fri.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502536",
+      "chengji": 40,
+      "xingqu": [
+        "dance",
+        "reading",
+        "chess"
+      ],
+      "yiyuan": [
+        "D09",
+        "D08"
+      ],
+      "kongxian": [
+        "Sun.14:00~16:00",
+        "Fri.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502537",
+      "chengji": 57,
+      "xingqu": [
+        "film",
+        "football"
+      ],
+      "yiyuan": [
+        "D04",
+        "D18",
+        "D08",
+        "D03",
+        "D15"
+      ],
+      "kongxian": [
+        "Mon.8:00~10:00",
+        "Sun.8:00~10:00",
+        "Sat.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502538",
+      "chengji": 69,
+      "xingqu": [
+        "basktball",
+        "chess"
+      ],
+      "yiyuan": [
+        "D08",
+        "D19"
+      ],
+      "kongxian": [
+        "Thur.14:00~16:00",
+        "Sat.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502539",
+      "chengji": 37,
+      "xingqu": [
+        "film",
+        "study",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D08",
+        "D11",
+        "D12",
+        "D04",
+        "D01"
+      ],
+      "kongxian": [
+        "Sun.20:00~22:00",
+        "Wed.16:00~18:00",
+        "Thur.14:00~16:00",
+        "Sun.14:00~16:00",
+        "Tues.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502540",
+      "chengji": 83,
+      "xingqu": [
+        "basktball",
+        "gameing",
+        "football"
+      ],
+      "yiyuan": [
+        "D01",
+        "D04",
+        "D20",
+        "D17",
+        "D18"
+      ],
+      "kongxian": [
+        "Sun.20:00~22:00",
+        "Thur.20:00~22:00",
+        "Thur.18:00~20:00",
+        "Sun.16:00~18:00",
+        "Mon.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502541",
+      "chengji": 43,
+      "xingqu": [
+        "dance",
+        "basktball",
+        "reading"
+      ],
+      "yiyuan": [
+        "D14",
+        "D12",
+        "D16",
+        "D20"
+      ],
+      "kongxian": [
+        "Wed.20:00~22:00",
+        "Tues.12:00~14:00",
+        "Mon.18:00~20:00",
+        "Sat.14:00~16:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502542",
+      "chengji": 32,
+      "xingqu": [
+        "film",
+        "programming",
+        "dance",
+        "chess"
+      ],
+      "yiyuan": [
+        "D04",
+        "D20",
+        "D08"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Fri.12:00~14:00",
+        "Mon.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502543",
+      "chengji": 67,
+      "xingqu": [
+        "reading",
+        "study",
+        "gameing",
+        "sing"
+      ],
+      "yiyuan": [
+        "D17"
+      ],
+      "kongxian": [
+        "Fri.22:00~24:00",
+        "Fri.8:00~10:00",
+        "Sun.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502544",
+      "chengji": 60,
+      "xingqu": [
+        "reading",
+        "chess",
+        "study"
+      ],
+      "yiyuan": [
+        "D06",
+        "D03",
+        "D09",
+        "D12",
+        "D16"
+      ],
+      "kongxian": [
+        "Sat.20:00~22:00",
+        "Thur.14:00~16:00",
+        "Thur.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502545",
+      "chengji": 80,
+      "xingqu": [
+        "programming",
+        "reading",
+        "basktball",
+        "study"
+      ],
+      "yiyuan": [
+        "D19",
+        "D16",
+        "D07",
+        "D01",
+        "D12"
+      ],
+      "kongxian": [
+        "Fri.22:00~24:00",
+        "Fri.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502546",
+      "chengji": 44,
+      "xingqu": [
+        "programming",
+        "football"
+      ],
+      "yiyuan": [
+        "D04"
+      ],
+      "kongxian": [
+        "Thur.18:00~20:00",
+        "Fri.22:00~24:00",
+        "Sun.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502547",
+      "chengji": 87,
+      "xingqu": [
+        "chess",
+        "football",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D14",
+        "D07",
+        "D15",
+        "D11",
+        "D16"
+      ],
+      "kongxian": [
+        "Fri.12:00~14:00",
+        "Mon.8:00~10:00",
+        "Thur.18:00~20:00",
+        "Thur.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502548",
+      "chengji": 77,
+      "xingqu": [
+        "study",
+        "football",
+        "film"
+      ],
+      "yiyuan": [
+        "D06",
+        "D03",
+        "D08",
+        "D10",
+        "D07"
+      ],
+      "kongxian": [
+        "Fri.22:00~24:00",
+        "Mon.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502549",
+      "chengji": 43,
+      "xingqu": [
+        "dance",
+        "study",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D18",
+        "D20",
+        "D06"
+      ],
+      "kongxian": [
+        "Sun.16:00~18:00",
+        "Mon.18:00~20:00",
+        "Sat.20:00~22:00",
+        "Sun.14:00~16:00",
+        "Thur.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502550",
+      "chengji": 84,
+      "xingqu": [
+        "reading",
+        "chess",
+        "sing",
+        "football"
+      ],
+      "yiyuan": [
+        "D09",
+        "D08",
+        "D20"
+      ],
+      "kongxian": [
+        "Fri.22:00~24:00",
+        "Wed.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502601",
+      "chengji": 97,
+      "xingqu": [
+        "sing",
+        "programming",
+        "football",
+        "chess"
+      ],
+      "yiyuan": [
+        "D10",
+        "D02",
+        "D01",
+        "D14",
+        "D05"
+      ],
+      "kongxian": [
+        "Sun.16:00~18:00",
+        "Sat.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502602",
+      "chengji": 84,
+      "xingqu": [
+        "film",
+        "football",
+        "study",
+        "sing"
+      ],
+      "yiyuan": [
+        "D07"
+      ],
+      "kongxian": [
+        "Sun.8:00~10:00",
+        "Mon.22:00~24:00",
+        "Fri.8:00~10:00",
+        "Tues.20:00~21:00"
+      ]
+    },
+    {
+      "xuehao": "031502603",
+      "chengji": 88,
+      "xingqu": [
+        "chess",
+        "football"
+      ],
+      "yiyuan": [
+        "D06",
+        "D04"
+      ],
+      "kongxian": [
+        "Fri.8:00~10:00",
+        "Sat.20:00~22:00",
+        "Sun.20:00~22:00",
+        "Thur.14:00~16:00",
+        "Thur.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502604",
+      "chengji": 72,
+      "xingqu": [
+        "football",
+        "dance"
+      ],
+      "yiyuan": [
+        "D16",
+        "D11",
+        "D13"
+      ],
+      "kongxian": [
+        "Fri.8:00~10:00",
+        "Thur.14:00~16:00",
+        "Mon.8:00~10:00",
+        "Sat.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502605",
+      "chengji": 66,
+      "xingqu": [
+        "gameing",
+        "programming",
+        "sing",
+        "reading"
+      ],
+      "yiyuan": [
+        "D15"
+      ],
+      "kongxian": [
+        "Mon.8:00~10:00",
+        "Sun.16:00~18:00",
+        "Wed.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502606",
+      "chengji": 77,
+      "xingqu": [
+        "chess",
+        "study",
+        "football",
+        "programming"
+      ],
+      "yiyuan": [
+        "D10",
+        "D14",
+        "D08"
+      ],
+      "kongxian": [
+        "Mon.22:00~24:00",
+        "Sun.14:00~16:00",
+        "Sun.8:00~10:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502607",
+      "chengji": 35,
+      "xingqu": [
+        "programming",
+        "dance",
+        "film",
+        "football"
+      ],
+      "yiyuan": [
+        "D02",
+        "D17",
+        "D11",
+        "D07",
+        "D16"
+      ],
+      "kongxian": [
+        "Sun.20:00~22:00",
+        "Wed.20:00~22:00",
+        "Sun.14:00~16:00",
+        "Mon.8:00~10:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502608",
+      "chengji": 70,
+      "xingqu": [
+        "study",
+        "basktball",
+        "football",
+        "sing"
+      ],
+      "yiyuan": [
+        "D01",
+        "D12",
+        "D16",
+        "D17",
+        "D03"
+      ],
+      "kongxian": [
+        "Sun.16:00~18:00",
+        "Sun.8:00~10:00",
+        "Fri.22:00~24:00",
+        "Thur.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502609",
+      "chengji": 42,
+      "xingqu": [
+        "chess",
+        "reading",
+        "study"
+      ],
+      "yiyuan": [
+        "D17",
+        "D20",
+        "D08",
+        "D05"
+      ],
+      "kongxian": [
+        "Sat.20:00~22:00",
+        "Sat.14:00~16:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502610",
+      "chengji": 60,
+      "xingqu": [
+        "chess",
+        "basktball",
+        "programming",
+        "football"
+      ],
+      "yiyuan": [
+        "D17"
+      ],
+      "kongxian": [
+        "Sun.20:00~22:00",
+        "Fri.22:00~24:00",
+        "Sat.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502611",
+      "chengji": 86,
+      "xingqu": [
+        "dance",
+        "programming",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D08",
+        "D09",
+        "D07",
+        "D06",
+        "D12"
+      ],
+      "kongxian": [
+        "Wed.16:00~18:00",
+        "Mon.18:00~20:00",
+        "Fri.8:00~10:00",
+        "Fri.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502612",
+      "chengji": 36,
+      "xingqu": [
+        "basktball",
+        "sing",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D05",
+        "D09"
+      ],
+      "kongxian": [
+        "Sun.8:00~10:00",
+        "Fri.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502613",
+      "chengji": 70,
+      "xingqu": [
+        "gameing",
+        "study",
+        "football"
+      ],
+      "yiyuan": [
+        "D16",
+        "D17",
+        "D05"
+      ],
+      "kongxian": [
+        "Mon.8:00~10:00",
+        "Wed.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502614",
+      "chengji": 81,
+      "xingqu": [
+        "gameing",
+        "study"
+      ],
+      "yiyuan": [
+        "D20",
+        "D09",
+        "D08"
+      ],
+      "kongxian": [
+        "Mon.8:00~10:00",
+        "Mon.18:00~20:00",
+        "Tues.12:00~14:00",
+        "Sun.8:00~10:00",
+        "Sat.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502615",
+      "chengji": 75,
+      "xingqu": [
+        "football",
+        "sing",
+        "programming"
+      ],
+      "yiyuan": [
+        "D07",
+        "D11",
+        "D04",
+        "D20",
+        "D17"
+      ],
+      "kongxian": [
+        "Thur.18:00~20:00",
+        "Wed.16:00~18:00",
+        "Sat.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502616",
+      "chengji": 87,
+      "xingqu": [
+        "football",
+        "reading"
+      ],
+      "yiyuan": [
+        "D11",
+        "D03"
+      ],
+      "kongxian": [
+        "Sat.20:00~22:00",
+        "Thur.18:00~20:00",
+        "Fri.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502617",
+      "chengji": 58,
+      "xingqu": [
+        "chess",
+        "study",
+        "film"
+      ],
+      "yiyuan": [
+        "D11",
+        "D15",
+        "D09"
+      ],
+      "kongxian": [
+        "Sat.14:00~16:00",
+        "Tues.20:00~21:00",
+        "Sun.16:00~18:00",
+        "Thur.20:00~22:00",
+        "Sun.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502618",
+      "chengji": 46,
+      "xingqu": [
+        "football",
+        "film",
+        "chess"
+      ],
+      "yiyuan": [
+        "D01",
+        "D11"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Thur.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502619",
+      "chengji": 66,
+      "xingqu": [
+        "sing",
+        "film",
+        "football",
+        "chess"
+      ],
+      "yiyuan": [
+        "D20",
+        "D01",
+        "D15",
+        "D07",
+        "D06"
+      ],
+      "kongxian": [
+        "Tues.20:00~21:00",
+        "Thur.18:00~20:00",
+        "Sun.16:00~18:00",
+        "Wed.20:00~22:00",
+        "Mon.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502620",
+      "chengji": 57,
+      "xingqu": [
+        "film",
+        "programming",
+        "dance",
+        "reading"
+      ],
+      "yiyuan": [
+        "D14",
+        "D04",
+        "D01",
+        "D17",
+        "D19"
+      ],
+      "kongxian": [
+        "Fri.12:00~14:00",
+        "Tues.20:00~21:00",
+        "Sat.14:00~16:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502621",
+      "chengji": 58,
+      "xingqu": [
+        "dance",
+        "football",
+        "reading"
+      ],
+      "yiyuan": [
+        "D20"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Sun.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502622",
+      "chengji": 94,
+      "xingqu": [
+        "chess",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D10",
+        "D17",
+        "D11",
+        "D12"
+      ],
+      "kongxian": [
+        "Mon.18:00~20:00",
+        "Mon.22:00~24:00",
+        "Sat.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502623",
+      "chengji": 90,
+      "xingqu": [
+        "sing",
+        "dance",
+        "reading"
+      ],
+      "yiyuan": [
+        "D01"
+      ],
+      "kongxian": [
+        "Fri.8:00~10:00",
+        "Tues.20:00~21:00",
+        "Mon.8:00~10:00",
+        "Sat.14:00~16:00",
+        "Fri.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502624",
+      "chengji": 52,
+      "xingqu": [
+        "film",
+        "study"
+      ],
+      "yiyuan": [
+        "D15",
+        "D17",
+        "D13",
+        "D20"
+      ],
+      "kongxian": [
+        "Sat.14:00~16:00",
+        "Sun.8:00~10:00",
+        "Fri.8:00~10:00",
+        "Wed.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502625",
+      "chengji": 32,
+      "xingqu": [
+        "football",
+        "film",
+        "study",
+        "chess"
+      ],
+      "yiyuan": [
+        "D11",
+        "D07",
+        "D05"
+      ],
+      "kongxian": [
+        "Mon.8:00~10:00",
+        "Wed.16:00~18:00",
+        "Thur.18:00~20:00",
+        "Fri.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502626",
+      "chengji": 68,
+      "xingqu": [
+        "reading",
+        "sing"
+      ],
+      "yiyuan": [
+        "D02",
+        "D15"
+      ],
+      "kongxian": [
+        "Tues.20:00~21:00",
+        "Wed.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502627",
+      "chengji": 62,
+      "xingqu": [
+        "sing",
+        "gameing",
+        "programming"
+      ],
+      "yiyuan": [
+        "D13",
+        "D14",
+        "D01"
+      ],
+      "kongxian": [
+        "Sat.14:00~16:00",
+        "Thur.18:00~20:00",
+        "Wed.16:00~18:00",
+        "Wed.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502628",
+      "chengji": 97,
+      "xingqu": [
+        "chess",
+        "reading"
+      ],
+      "yiyuan": [
+        "D20",
+        "D13",
+        "D14"
+      ],
+      "kongxian": [
+        "Thur.18:00~20:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502629",
+      "chengji": 37,
+      "xingqu": [
+        "programming",
+        "reading",
+        "chess",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D03",
+        "D08"
+      ],
+      "kongxian": [
+        "Wed.16:00~18:00",
+        "Fri.12:00~14:00",
+        "Mon.22:00~24:00",
+        "Tues.20:00~21:00"
+      ]
+    },
+    {
+      "xuehao": "031502630",
+      "chengji": 58,
+      "xingqu": [
+        "gameing",
+        "dance",
+        "chess"
+      ],
+      "yiyuan": [
+        "D19",
+        "D20",
+        "D01"
+      ],
+      "kongxian": [
+        "Sun.20:00~22:00",
+        "Mon.8:00~10:00",
+        "Mon.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502631",
+      "chengji": 44,
+      "xingqu": [
+        "gameing",
+        "study"
+      ],
+      "yiyuan": [
+        "D08",
+        "D10",
+        "D07",
+        "D09",
+        "D03"
+      ],
+      "kongxian": [
+        "Sat.20:00~22:00",
+        "Thur.14:00~16:00",
+        "Fri.22:00~24:00",
+        "Sun.20:00~22:00",
+        "Fri.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502632",
+      "chengji": 47,
+      "xingqu": [
+        "dance",
+        "basktball",
+        "chess"
+      ],
+      "yiyuan": [
+        "D09",
+        "D20",
+        "D18",
+        "D19",
+        "D05"
+      ],
+      "kongxian": [
+        "Fri.8:00~10:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502633",
+      "chengji": 66,
+      "xingqu": [
+        "study",
+        "sing",
+        "reading"
+      ],
+      "yiyuan": [
+        "D05",
+        "D10",
+        "D01",
+        "D12",
+        "D07"
+      ],
+      "kongxian": [
+        "Sun.14:00~16:00",
+        "Thur.18:00~20:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502634",
+      "chengji": 70,
+      "xingqu": [
+        "study",
+        "programming",
+        "sing"
+      ],
+      "yiyuan": [
+        "D18"
+      ],
+      "kongxian": [
+        "Sun.14:00~16:00",
+        "Tues.20:00~21:00"
+      ]
+    },
+    {
+      "xuehao": "031502635",
+      "chengji": 80,
+      "xingqu": [
+        "sing",
+        "chess",
+        "basktball",
+        "film"
+      ],
+      "yiyuan": [
+        "D08",
+        "D13",
+        "D19"
+      ],
+      "kongxian": [
+        "Sun.16:00~18:00",
+        "Tues.18:00~20:00",
+        "Mon.22:00~24:00",
+        "Thur.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502636",
+      "chengji": 40,
+      "xingqu": [
+        "study",
+        "programming",
+        "dance",
+        "gameing"
+      ],
+      "yiyuan": [
+        "D05",
+        "D04",
+        "D18"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Tues.20:00~21:00",
+        "Sat.20:00~22:00",
+        "Fri.8:00~10:00"
+      ]
+    },
+    {
+      "xuehao": "031502637",
+      "chengji": 85,
+      "xingqu": [
+        "football",
+        "dance",
+        "study"
+      ],
+      "yiyuan": [
+        "D14",
+        "D12"
+      ],
+      "kongxian": [
+        "Mon.8:00~10:00",
+        "Thur.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502638",
+      "chengji": 86,
+      "xingqu": [
+        "study",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D06",
+        "D09",
+        "D07",
+        "D15"
+      ],
+      "kongxian": [
+        "Tues.20:00~21:00",
+        "Thur.20:00~22:00",
+        "Tues.12:00~14:00",
+        "Tues.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502639",
+      "chengji": 31,
+      "xingqu": [
+        "film",
+        "programming",
+        "football",
+        "study"
+      ],
+      "yiyuan": [
+        "D08",
+        "D18"
+      ],
+      "kongxian": [
+        "Wed.20:00~22:00",
+        "Fri.12:00~14:00"
+      ]
+    },
+    {
+      "xuehao": "031502640",
+      "chengji": 98,
+      "xingqu": [
+        "reading",
+        "gameing",
+        "film",
+        "programming"
+      ],
+      "yiyuan": [
+        "D12",
+        "D19",
+        "D04",
+        "D03",
+        "D05"
+      ],
+      "kongxian": [
+        "Mon.18:00~20:00",
+        "Tues.20:00~21:00",
+        "Sat.14:00~16:00",
+        "Sat.20:00~22:00",
+        "Wed.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502641",
+      "chengji": 85,
+      "xingqu": [
+        "sing",
+        "programming",
+        "reading"
+      ],
+      "yiyuan": [
+        "D18"
+      ],
+      "kongxian": [
+        "Sun.20:00~22:00",
+        "Mon.22:00~24:00"
+      ]
+    },
+    {
+      "xuehao": "031502642",
+      "chengji": 51,
+      "xingqu": [
+        "reading",
+        "study",
+        "gameing",
+        "dance"
+      ],
+      "yiyuan": [
+        "D02",
+        "D17",
+        "D18",
+        "D20"
+      ],
+      "kongxian": [
+        "Sun.8:00~10:00",
+        "Wed.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502643",
+      "chengji": 33,
+      "xingqu": [
+        "sing",
+        "football",
+        "film",
+        "reading"
+      ],
+      "yiyuan": [
+        "D14",
+        "D10",
+        "D09",
+        "D12"
+      ],
+      "kongxian": [
+        "Sun.14:00~16:00",
+        "Fri.22:00~24:00",
+        "Wed.20:00~22:00",
+        "Sat.14:00~16:00"
+      ]
+    },
+    {
+      "xuehao": "031502644",
+      "chengji": 53,
+      "xingqu": [
+        "basktball",
+        "sing"
+      ],
+      "yiyuan": [
+        "D04"
+      ],
+      "kongxian": [
+        "Wed.20:00~22:00",
+        "Thur.18:00~20:00",
+        "Mon.18:00~20:00",
+        "Sun.8:00~10:00",
+        "Thur.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502645",
+      "chengji": 83,
+      "xingqu": [
+        "sing",
+        "gameing",
+        "football",
+        "programming"
+      ],
+      "yiyuan": [
+        "D07",
+        "D02"
+      ],
+      "kongxian": [
+        "Tues.18:00~20:00",
+        "Thur.18:00~20:00"
+      ]
+    },
+    {
+      "xuehao": "031502646",
+      "chengji": 44,
+      "xingqu": [
+        "dance",
+        "football"
+      ],
+      "yiyuan": [
+        "D02",
+        "D13"
+      ],
+      "kongxian": [
+        "Tues.20:00~21:00",
+        "Thur.18:00~20:00",
+        "Sat.20:00~22:00",
+        "Sun.8:00~10:00",
+        "Wed.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502647",
+      "chengji": 40,
+      "xingqu": [
+        "programming",
+        "football",
+        "dance",
+        "chess"
+      ],
+      "yiyuan": [
+        "D18",
+        "D09",
+        "D07"
+      ],
+      "kongxian": [
+        "Sat.14:00~16:00",
+        "Mon.8:00~10:00",
+        "Sun.16:00~18:00"
+      ]
+    },
+    {
+      "xuehao": "031502648",
+      "chengji": 70,
+      "xingqu": [
+        "study",
+        "dance",
+        "chess",
+        "basktball"
+      ],
+      "yiyuan": [
+        "D02",
+        "D04",
+        "D14"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Sun.14:00~16:00",
+        "Fri.12:00~14:00",
+        "Mon.18:00~20:00",
+        "Sat.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502649",
+      "chengji": 58,
+      "xingqu": [
+        "programming",
+        "football",
+        "film"
+      ],
+      "yiyuan": [
+        "D13",
+        "D01"
+      ],
+      "kongxian": [
+        "Fri.8:00~10:00",
+        "Wed.16:00~18:00",
+        "Tues.18:00~20:00",
+        "Sun.20:00~22:00"
+      ]
+    },
+    {
+      "xuehao": "031502650",
+      "chengji": 78,
+      "xingqu": [
+        "film",
+        "football",
+        "study"
+      ],
+      "yiyuan": [
+        "D05",
+        "D18",
+        "D17"
+      ],
+      "kongxian": [
+        "Thur.20:00~22:00",
+        "Tues.18:00~20:00",
+        "Tues.12:00~14:00"
+      ]
+    }
+  ],
+  "departments": [
+    {
+      "num": "D07",
+      "shangxian": 10,
+      "tedian": [
+        "sing",
+        "football",
+        "study",
+        "chess"
+      ],
+      "huodong": [
+        "Mon.8:00~10:00",
+        "Thur.18:00~20:00",
+        "Tues.18:00~20:00"
+      ]
+    },
+    {
+      "num": "D14",
+      "shangxian": 10,
+      "tedian": [
+        "reading",
+        "study",
+        "dance"
+      ],
+      "huodong": [
+        "Thur.14:00~16:00",
+        "Wed.16:00~18:00",
+        "Tues.18:00~20:00"
+      ]
+    },
+    {
+      "num": "D15",
+      "shangxian": 11,
+      "tedian": [
+        "gameing",
+        "film",
+        "study",
+        "football"
+      ],
+      "huodong": [
+        "Fri.8:00~10:00",
+        "Sat.14:00~16:00",
+        "Tues.20:00~21:00",
+        "Wed.16:00~18:00"
+      ]
+    },
+    {
+      "num": "D11",
+      "shangxian": 11,
+      "tedian": [
+        "reading",
+        "study",
+        "football"
+      ],
+      "huodong": [
+        "Sun.16:00~18:00",
+        "Tues.18:00~20:00",
+        "Thur.18:00~20:00",
+        "Mon.18:00~20:00"
+      ]
+    },
+    {
+      "num": "D03",
+      "shangxian": 15,
+      "tedian": [
+        "gameing",
+        "football",
+        "sing"
+      ],
+      "huodong": [
+        "Thur.14:00~16:00",
+        "Thur.20:00~22:00",
+        "Mon.18:00~20:00"
+      ]
+    },
+    {
+      "num": "D18",
+      "shangxian": 11,
+      "tedian": [
+        "study",
+        "basktball",
+        "football",
+        "reading"
+      ],
+      "huodong": [
+        "Thur.14:00~16:00",
+        "Fri.12:00~14:00"
+      ]
+    },
+    {
+      "num": "D05",
+      "shangxian": 11,
+      "tedian": [
+        "reading",
+        "chess",
+        "sing",
+        "football"
+      ],
+      "huodong": [
+        "Sun.8:00~10:00",
+        "Fri.8:00~10:00",
+        "Tues.20:00~21:00"
+      ]
+    },
+    {
+      "num": "D04",
+      "shangxian": 11,
+      "tedian": [
+        "gameing",
+        "dance",
+        "film"
+      ],
+      "huodong": [
+        "Tues.18:00~20:00",
+        "Fri.22:00~24:00",
+        "Sat.14:00~16:00",
+        "Thur.14:00~16:00"
+      ]
+    },
+    {
+      "num": "D12",
+      "shangxian": 10,
+      "tedian": [
+        "dance",
+        "basktball",
+        "film",
+        "gameing"
+      ],
+      "huodong": [
+        "Sun.8:00~10:00",
+        "Thur.18:00~20:00"
+      ]
+    },
+    {
+      "num": "D09",
+      "shangxian": 11,
+      "tedian": [
+        "reading",
+        "dance",
+        "film",
+        "gameing"
+      ],
+      "huodong": [
+        "Tues.12:00~14:00",
+        "Mon.22:00~24:00",
+        "Tues.18:00~20:00"
+      ]
+    },
+    {
+      "num": "D17",
+      "shangxian": 10,
+      "tedian": [
+        "programming",
+        "film",
+        "chess"
+      ],
+      "huodong": [
+        "Sun.20:00~22:00",
+        "Tues.12:00~14:00",
+        "Wed.20:00~22:00",
+        "Tues.20:00~21:00"
+      ]
+    },
+    {
+      "num": "D16",
+      "shangxian": 13,
+      "tedian": [
+        "dance",
+        "reading"
+      ],
+      "huodong": [
+        "Sun.16:00~18:00",
+        "Wed.16:00~18:00",
+        "Sun.8:00~10:00",
+        "Sat.14:00~16:00"
+      ]
+    },
+    {
+      "num": "D02",
+      "shangxian": 10,
+      "tedian": [
+        "study",
+        "dance",
+        "chess",
+        "reading"
+      ],
+      "huodong": [
+        "Fri.12:00~14:00",
+        "Fri.22:00~24:00",
+        "Tues.18:00~20:00"
+      ]
+    },
+    {
+      "num": "D06",
+      "shangxian": 10,
+      "tedian": [
+        "chess",
+        "basktball",
+        "gameing"
+      ],
+      "huodong": [
+        "Thur.18:00~20:00",
+        "Tues.20:00~21:00",
+        "Tues.12:00~14:00"
+      ]
+    },
+    {
+      "num": "D13",
+      "shangxian": 14,
+      "tedian": [
+        "dance",
+        "gameing"
+      ],
+      "huodong": [
+        "Mon.18:00~20:00",
+        "Fri.22:00~24:00",
+        "Mon.22:00~24:00"
+      ]
+    },
+    {
+      "num": "D10",
+      "shangxian": 13,
+      "tedian": [
+        "film",
+        "gameing",
+        "study",
+        "basktball"
+      ],
+      "huodong": [
+        "Sun.20:00~22:00",
+        "Tues.20:00~21:00",
+        "Sun.14:00~16:00",
+        "Mon.22:00~24:00"
+      ]
+    },
+    {
+      "num": "D20",
+      "shangxian": 11,
+      "tedian": [
+        "football",
+        "programming"
+      ],
+      "huodong": [
+        "Wed.16:00~18:00",
+        "Sat.14:00~16:00",
+        "Wed.20:00~22:00",
+        "Fri.22:00~24:00"
+      ]
+    },
+    {
+      "num": "D08",
+      "shangxian": 12,
+      "tedian": [
+        "film",
+        "dance"
+      ],
+      "huodong": [
+        "Thur.18:00~20:00",
+        "Mon.18:00~20:00"
+      ]
+    },
+    {
+      "shangxian": 14,
+      "tedian": [
+        "reading",
+        "chess",
+        "gameing",
+        "film"
+      ],
+      "huodong": [
+        "Wed.20:00~22:00",
+        "Mon.18:00~20:00",
+        "Fri.8:00~10:00"
+      ]
+    },
+    {
+      "num": "D19",
+      "shangxian": 12,
+      "tedian": [
+        "chess",
+        "basktball",
+        "sing"
+      ],
+      "huodong": [
+        "Thur.18:00~20:00",
+        "Wed.20:00~22:00"
+      ]
+    }
+  ]
+}
